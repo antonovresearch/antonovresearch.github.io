@@ -2,7 +2,7 @@
 number: 5
 title: "Ring lithiation of 1,8-bis(dimethylamino)naphthalene: another side of the „proton sponge coin”"
 authors:
-- admin
+- antonov
 - A. F. Pozharskii
 - V. A. Ozeryanskii
 - A. Filarowski
