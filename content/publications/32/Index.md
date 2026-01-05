@@ -6,7 +6,7 @@ authors:
 - D. V. Krutin
 - P. O. Mosalyov
 - Tupikina
-- admin
+- antonov
 - Tolstoy
 - Mulloyarova 
 author_notes:
