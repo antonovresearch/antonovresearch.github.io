@@ -6,7 +6,7 @@ authors:
 - A. F. Pozharskii
 - A. Filarowski
 - A. S. Novikov
-- admin
+- antonov
 - Tolstoy
 - M. A. Vovk
 - O. V. Khoroshilova 
