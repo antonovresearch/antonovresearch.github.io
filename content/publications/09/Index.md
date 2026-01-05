@@ -2,7 +2,7 @@
 number: 9
 title: "Laying the way to meta-functionalization of naphthalene proton sponge via the use of Schlosser's superbase"
 authors:
-- admin
+- antonov
 - Bardakov
 - A. F. Pozharskii
 - M. A. Vovk
