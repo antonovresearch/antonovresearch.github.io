@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: begovic
+name_short: B. Begović
+name:
+  display: Benjamin Begović
+role: Bachelor student
+
+affiliations:
+  - name: Regensburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:Benjamin.Begovic@stud.uni-regensburg.de'
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Undergraduate Students
