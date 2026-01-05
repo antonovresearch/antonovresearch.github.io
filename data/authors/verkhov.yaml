@@ -3,22 +3,17 @@ slug: verkhov
 name_short: V. A. Verkhov
 name:
   display: Valerii Verkhov
-role: Postdoctoral Researcher
-bio: Developing deep learning models for protein structure prediction and drug discovery.
+role: PhD Student
+
 affiliations:
-  - name: University of Excellence
-    url: https://www.example.edu/
+  - name: Saint Petersburg University
+
 links:
   - icon: hero/envelope
-    url: mailto:michael.chen@example.edu
-  - icon: brands/x
-    url: https://twitter.com/MichaelChenPhD
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    url: https://github.com/mchen-research
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/michael-chen-phd
+    link: 'mailto:v.verkhov@spbu.ru'
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0002-6262-8405
+    
 interests:
   - Deep Learning
   - Protein Folding
