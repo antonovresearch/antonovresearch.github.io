@@ -1,0 +1,20 @@
+schema: hugoblox/author/v1
+slug: Tsybulin
+name:
+  display: Dr. Semyon Tsybulin
+name_short: S. V. Tsybulin
+role: Postdoctoral Researcher
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:s.tsybulin@spbu.ru'
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0001-5033-8454
+
+highlight_name: false
+website: ""
+user_groups:
+  - Postdoctoral Researchers
