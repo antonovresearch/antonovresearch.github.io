@@ -1,0 +1,15 @@
+schema: hugoblox/author/v1
+slug: derevyanko
+name_short: M. Derevyanko  
+name:
+  display: Maxim Derevyanko  
+role: BS in Materials Science, 2017
+graduation_date: 2017
+
+affiliations:
+  - name: Southern Federal University
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
