@@ -7,7 +7,7 @@ authors:
 - D. I. Tonkoglazova
 - Bardakov
 - A. F. Pozharskii
-- admin 
+- antonov
 author_notes:
 - ""
 - ""
