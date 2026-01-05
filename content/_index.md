@@ -111,7 +111,6 @@ sections:
     design:
       spacing:
         padding: ["0", "0", "0", "0"]
-        margin: ["0", "0", "0", "0"]    
     
   - block: resume-biography-3
     id: team
@@ -129,7 +128,9 @@ sections:
       background:
         gradient_mesh:
           enable: true
-
+      spacing:
+        padding: ["0", "0", "0", "0"]
+    
       # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
@@ -147,8 +148,7 @@ sections:
         icon: hero/arrow-right
     design:
       spacing:
-        padding: ["0", "0", "0", "0"]
-        margin: ["0", "0", "0", "0"]    
+        padding: ["0", "0", "0", "0"]  
         
   - block: team-showcase
     content:
