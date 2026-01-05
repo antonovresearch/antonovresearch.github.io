@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: yakubenko
+name_short: A. A. Yakubenko
+name:
+  display: Artyom Yakubenko
+role: BS in Chemistry, 2023
+graduation_date: 2023
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0001-5193-3298
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
