@@ -5,7 +5,7 @@ authors:
 - A. V. Marchenko
 - V. A. Ozeryanskii
 - O. P. Demidov
-- admin
+- antonov
 - Tupikina
 - A. F. Pozharskii 
 author_notes:
