@@ -2,7 +2,7 @@
 number: 8
 title: "Reaction of 2-Trifluoroacetyl-1,8-Bis(dimethylamino)naphthalene with Strong Organic Bases: Acidic Ionization of 1-NMe2 Group Resulting in the Formation of Benzo[g]indole Derivatives versus Nucleophilic Addition to C=O Group"
 authors:
-- admin
+- antonov
 - Kachalkina
 - A. F. Pozharskii
 - G. S. Borodkin
