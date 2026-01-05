@@ -1,8 +1,8 @@
 schema: hugoblox/author/v1
 slug: Tsybulin
+name_short: S. V. Tsybulin
 name:
   display: Dr. Semyon Tsybulin
-name_short: S. V. Tsybulin
 role: Postdoctoral Researcher
 
 affiliations:
