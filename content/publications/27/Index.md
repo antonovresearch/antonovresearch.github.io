@@ -4,7 +4,7 @@ title: "The role of conjugation in the halogen-lithium exchange: lithiation of 4
 authors:
 - Yakubenko
 - Tupikina
-- admin 
+- antonov 
 author_notes:
 - ""
 - ""
