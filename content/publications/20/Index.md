@@ -5,7 +5,7 @@ authors:
 - Yakubenko 
 - V. V. Karpov
 - Tupikina
-- admin
+- antonov
 
 author_notes:
 - ""
