@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: mikshiev
+name_short: V. Y. Mikshiev
+name:
+  display: Dr. Vladimir Mikshiev
+role: Postdoctoral Researcher (2019-2021)
+graduation_date: 2021
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0003-1204-0352
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
