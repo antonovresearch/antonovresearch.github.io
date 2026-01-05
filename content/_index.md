@@ -135,26 +135,29 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square
     
-  - block: "team-showcase"
+  - block: team-showcase
     content:
       title: "Meet Our Team"
+
       user_groups:
         - "Principal Investigator"
         - "Postdoctoral Researchers"
         - "PhD Students"
         - "Undergraduate Students"
-      sort_by: "Params.last_name"
-      sort_ascending: true
+
+      author_page_urls:
+        antonov: "/antonov/"
+
       cta:
         text: "Alumni"
-        url: "/alumni"
+        url: "/alumni/"
         icon: "user-group"
+
     design:
       show_role: true
       show_organizations: true
       show_interests: true
       show_social: true
-      css_class: " "
       spacing:
         padding: ["5rem", 0, "5rem", 0]
  
