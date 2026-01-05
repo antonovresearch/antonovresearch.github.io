@@ -1,0 +1,15 @@
+schema: hugoblox/author/v1
+slug: sidorina
+name_short: E. Sidorina 
+name:
+  display: Elisaveta Sidorina 
+role: Diploma in Chemistry, 2017
+graduation_date: 2017
+
+affiliations:
+  - name: Southern Federal University
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
