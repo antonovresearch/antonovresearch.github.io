@@ -3,7 +3,7 @@ number: 6
 title: "Tandem synthesis of 10- dimethylaminobenzo[h]quinazolines from 2-ketimino-1,8-bis(dimethylamino)naphthalenes via nucleophilic replacement of the unactivated aromatic NMe2 group"
 authors:
 - Mikshiev
-- admin
+- antonov
 - A. F. Pozharskii 
 
 author_notes:
