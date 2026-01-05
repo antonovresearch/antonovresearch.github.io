@@ -105,15 +105,6 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
-  - block: feature
-    content:
-      title: "Meet Our Team"
-    design:
-      columns: "1"
-      spacing:
-        padding: ["0", "0", "0", "0"]
-        margin: ["0", "0", "0", "0"]
-    
   - block: resume-biography-3
     id: team
     content:
