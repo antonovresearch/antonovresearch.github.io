@@ -124,10 +124,10 @@ sections:
         about: ''
         education: ''
         interests: ''
-    cta:
-      text: Detailed CV
-      url: /antonov
-      icon: hero/arrow-right
+      cta:
+        text: Detailed CV
+        url: /antonov
+        icon: hero/arrow-right
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
