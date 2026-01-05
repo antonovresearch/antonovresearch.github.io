@@ -9,7 +9,7 @@ authors:
 - D.A. Shitov
 - Tupikina
 - M. M. Efremova
-- admin 
+- antonov
 author_notes:
 - ""
 - ""
