@@ -110,12 +110,12 @@ sections:
     content:
       title: "Meet Our Team"
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
+      username: antonov
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Detailed CV
+        url: /experience
       headings:
         about: ''
         education: ''
@@ -133,7 +133,8 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: square
+    
   - block: "team-showcase"
     content:
       title: "Meet Our Team"
