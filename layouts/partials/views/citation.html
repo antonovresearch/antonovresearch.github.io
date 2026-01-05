@@ -1,0 +1,70 @@
+{{/* Custom citation view for Hugo Blox (Tailwind)
+     Updated for data/authors/*.yaml
+     Keeps manual numbering, name_short, corresponding author, inline DOI */}}
+
+{{ $p := .item }}
+
+<div class="hb-citation space-y-1">
+
+  {{/* ================= AUTHORS ================= */}}
+  {{ $authors := slice }}
+
+  {{ range $i, $a := $p.Params.authors }}
+    {{ $author := $a }}
+
+    {{/* Look up author in data/authors by slug */}}
+    {{ $slug := urlize $a }}
+    {{ with index site.Data.authors $slug }}
+      {{ with .name_short }}
+        {{ $author = . }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Append * for corresponding author */}}
+    {{ with index $p.Params.author_notes $i }}
+      {{ if ne . "" }}
+        {{ $author = printf "%s*" $author }}
+      {{ end }}
+    {{ end }}
+
+    {{ $authors = $authors | append $author }}
+  {{ end }}
+
+  <div class="citation-authors text-sm">
+    {{ with $p.Params.number }}
+      <span class="citation-number font-bold mr-1">{{ . }}.</span>
+    {{ end }}
+    {{ delimit $authors ", " }}
+  </div>
+
+  {{/* ================= TITLE ================= */}}
+  <div class="citation-title font-medium">
+    {{ $p.Title }}
+  </div>
+
+  {{/* ================= JOURNAL INFO WITH INLINE DOI ================= */}}
+  {{ if and $p.Params.Journal $p.Params.Year $p.Params.Volume $p.Params.Pages }}
+    <div class="citation-journal text-sm">
+      <em>{{ $p.Params.Journal }}</em>
+      <strong>{{ $p.Params.Year }}</strong>,
+      <em>{{ $p.Params.Volume }}</em>,
+      {{ $p.Params.Pages }}
+      {{/* Inline DOI */}}
+      {{ with $p.Params.links }}
+        {{ range . }}
+          {{ if eq .type "doi" }}
+            , <a href="{{ .url }}" target="_blank" rel="noopener"
+                 class="text-indigo-600 hover:underline">
+              DOI
+            </a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ else if $p.Params.publication }}
+    <div class="citation-journal text-sm">
+      <em>{{ $p.Params.publication }}</em>
+    </div>
+  {{ end }}
+
+</div>
