@@ -4,7 +4,7 @@ title: "Unusual behaviour of the spin–spin coupling constant 1JCH upon formati
 authors:
 - Tupikina
 - G. S. Denisov
-- admin
+- antonov
 - Tolstoy 
 
 author_notes:
