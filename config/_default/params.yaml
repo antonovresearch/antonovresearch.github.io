@@ -13,18 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Research Lab"
+    name: "Antonov Lab"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: "Research Lab"
+    organization: "Antonov Lab"
     # Schema.org type for structured data
     type: organization                  # person | organization | local_business
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "Leading research lab advancing knowledge through innovative scientific discovery and collaboration."
+    description: "Physical Organometallic Chemistry."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GetResearchDev"         # Twitter/X handle for Twitter Cards (without @)
+      twitter: "Alex_S_Antonov"         # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -37,7 +37,7 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "indigo"                 # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: "green"                 # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: ""
       neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
