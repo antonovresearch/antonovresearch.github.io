@@ -5,7 +5,7 @@ authors:
 - Mulloyarova 
 - A. M. Puzyk
 - A. A. Efimova
-- admin
+- antonov
 - R. A. Evarestov
 - I. S. Aliyarova
 - R. E. Asfin
