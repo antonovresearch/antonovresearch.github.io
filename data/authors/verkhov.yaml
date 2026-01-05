@@ -1,7 +1,8 @@
 schema: hugoblox/author/v1
 slug: verkhov
+name_short: V. A. Verkhov
 name:
-  display: Dr. Michael Chen
+  display: Valerii Verkhov
 role: Postdoctoral Researcher
 bio: Developing deep learning models for protein structure prediction and drug discovery.
 affiliations:
