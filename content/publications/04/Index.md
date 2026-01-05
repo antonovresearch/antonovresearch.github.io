@@ -5,7 +5,7 @@ authors:
 - Kachalkina
 - G. S. Borodkin
 - A. F. Pozharskii
-- admin
+- antonov
 - I. G. Borodkina
 - Y. F. Maltsev
 - E. A. Filatova
