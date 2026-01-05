@@ -1,0 +1,15 @@
+schema: hugoblox/author/v1
+slug: birukov
+name_short: A. Birukov  
+name:
+  display: Alexander Birukov
+role: Diploma in Chemistry, 2015
+graduation_date: 2015
+
+affiliations:
+  - name: Southern Federal University
+
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
