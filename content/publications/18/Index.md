@@ -2,7 +2,7 @@
 number: 18
 title: "Sterically Facilitated Intramolecular Nucleophilic NMe2 Group Substitution in the Synthesis of Fused Isoxazoles: Theoretical Study"
 authors:
-- admin
+- antonov
 - Tupikina
 - V. V. Karpov
 - Mulloyarova
