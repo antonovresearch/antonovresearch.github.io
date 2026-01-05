@@ -108,18 +108,17 @@ sections:
   - block: resume-biography-3
     id: team
     content:
-      title: "Meet Our Team"
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: antonov
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Detailed CV
-        url: /antonov
       headings:
         about: ''
         education: ''
         interests: ''
+      button:
+        text: Detailed CV
+        url: /antonov
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -140,7 +139,6 @@ sections:
       title: "Meet Our Team"
 
       user_groups:
-        - "Principal Investigator"
         - "Postdoctoral Researchers"
         - "PhD Students"
         - "Undergraduate Students"
