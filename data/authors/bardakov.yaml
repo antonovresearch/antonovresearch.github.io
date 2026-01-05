@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: bardakov
+name_short: V. G. Bardakov
+name:
+  display: Victor Bardakov 
+role: PhD student (2020-2024)
+graduation_date: 2024
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0003-2752-1976
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
