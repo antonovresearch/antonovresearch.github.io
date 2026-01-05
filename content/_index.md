@@ -131,17 +131,12 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square
     
-  - block: collection
+  - block: research-areas
     content:
-      title: ""
-      text: ""
-      button:
-        text: "Detailed CV"
-        url: "/antonov/"
-    design:
-      spacing:
-        padding: ["0", "0", "0", "0"]
-        margin: ["0", "0", "0", "0"]
+      cta:
+        text: Detailed CV
+        url: /antonov
+        icon: hero/arrow-right    
         
   - block: team-showcase
     content:
