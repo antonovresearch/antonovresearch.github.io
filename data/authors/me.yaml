@@ -2,44 +2,49 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Prof. Jane Smith
-role: Principal Investigator & Lab Director
-bio: Leading research in computational biology and machine learning applications to scientific discovery.
+  display: Dr. Alexander Antonov
+name_short: A. S. Antonov
+role: Group Leader
 affiliations:
-  - name: University of Excellence
-    url: https://www.example.edu/
+  - name: University of Regensburg
+    #url: https://www.example.edu/
 links:
   - icon: hero/envelope
-    url: mailto:jane.smith@example.edu
+    url: mailto:alexander.antonov@ur.de
   - icon: brands/x
-    url: https://twitter.com/ProfJaneSmith
-    label: Follow me on Twitter
+    url: https://x.com/Alex_S_Antonov
+    label: Follow me on X
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    url: https://github.com/jane-smith-lab
+    url: https://scholar.google.com/citations?user=zckL44IAAAAJ
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/prof-jane-smith
+    url: https://www.linkedin.com/in/alexander-antonov-98836a27b/
   - icon: brands/orcid
-    url: https://orcid.org/0000-0000-0000-0000
-  - icon: brands/cv
-    url: uploads/cv-jane-smith.pdf
+    url: https://orcid.org/0000-0001-7047-789X
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/alexanderantonov.bsky.social
+  #- icon: brands/cv
+    #url: uploads/cv-jane-smith.pdf
+    
 interests:
-  - Machine Learning & AI
-  - Computational Biology
-  - Drug Discovery
-  - Scientific Computing
-  - Open Science
+  - Organometallic Chemistry
+  - Organic Synthesis
+  - Non-covalent Interactions
+  - Heterocyclic Chemistry
+  - Pnictogen Chemistry
+  - Hydrogen Bonding
+  - Catalysis
+  
 education:
-  - degree: PhD in Computational Biology
-    institution: Stanford University
-    end: "2012-01-01"
-  - degree: MS in Computer Science
-    institution: MIT
-    end: "2008-01-01"
-  - degree: BS in Bioinformatics
-    institution: UC Berkeley
-    end: "2006-01-01"
+  - degree: PhD in Organic Chemistry (Prof. Alexander F. Pozharskii)
+    institution: Southern Federal University
+    end: "2015"
+  - degree: MS in Organic Chemistry (Prof. Alexander F. Pozharskii)
+    institution: Southern Federal University
+    end: "2011"
+  - degree: BS in Physical Chemistry (Prof. Vladimir V. Lukov)
+    institution: Southern Federal University
+    end: "2009"
+    
 skills:
   - name: Technical
     items:
