@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: kachalkena
+name_short: S. G. Kachalkena
+name:
+  display: Svetlana Kachalkena
+role: Diploma in Chemistry, 2012
+graduation_date: 2012
+
+affiliations:
+  - name: Southern Federal University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:Benjamin.Begovic@stud.uni-regensburg.de'
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
