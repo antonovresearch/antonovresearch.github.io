@@ -6,7 +6,7 @@ authors:
 - Tolstoy
 - A.M. Puzik
 - S.O. Kirichenko,
-- admin
+- antonov
 
 author_notes:
 - "Corresponding author" 
