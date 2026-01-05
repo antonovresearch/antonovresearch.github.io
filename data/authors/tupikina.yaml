@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: tupikina
+name_short: E. Yu. Tupikina
+name:
+  display: Prof. Elena Tupikina
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:e.tupikina@spbu.ru'
+  - icon: hero/link
+    link: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
+    
+highlight_name: false
+website: ""
+user_groups:
+  - " "
