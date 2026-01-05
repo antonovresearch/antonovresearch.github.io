@@ -1,28 +1,19 @@
 ---
 title: Alexander Antonov
 type: landing
----
 
 sections:
-
-  # -----------------------------
-  # Biography block
-  # -----------------------------
-  - block: resume-biography-3
+  - block: text
     content:
-      username: antonov   # optional, can be used to style or fetch data
-      text: "This is sample text content for the section."
-      button:
-        text: "Click Here"
-        url: "https://example.com"
+      title: "Dr. Alexander Antonov"
+      text: |
+        Group Leader  
+        University of Regensburg
     design:
-      background:
-        color: ""
       columns: "1"
+      spacing:
+        padding: ["2rem", 0, "2rem", 0"]
 
-  # -----------------------------
-  # Experience block
-  # -----------------------------
   - block: resume-experience
     content:
       title: "Experience"
@@ -46,3 +37,4 @@ sections:
             * Protein chemistry and chemical proteomics
     design:
       columns: "1"
+---
