@@ -104,6 +104,14 @@ sections:
       css_class: " "
       spacing:
         padding: ["5rem", 0, "5rem", 0]
+
+      - block: research-areas
+    content:
+      title: Meet Our Team
+    design:
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]    
     
   - block: resume-biography-3
     id: team
@@ -136,7 +144,11 @@ sections:
       cta:
         text: Detailed CV
         url: /antonov
-        icon: hero/arrow-right    
+        icon: hero/arrow-right
+    design:
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]    
         
   - block: team-showcase
     content:
