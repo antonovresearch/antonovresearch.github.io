@@ -2,7 +2,7 @@
 number: 12
 title: "Non-covalent Li···H interaction in the synthesis of peri-disubstituted naphthalene proton sponges"
 authors:
-- admin
+- antonov
 - Yakubenko
 
 author_notes:
