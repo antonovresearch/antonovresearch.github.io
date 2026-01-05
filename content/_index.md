@@ -131,13 +131,14 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square
     
-  - block: feature
+  - block: cta
     content:
+      title: ""
+      text: ""
       button:
         text: "Detailed CV"
         url: "/antonov/"
     design:
-      columns: "1"
       spacing:
         padding: ["0", "0", "0", "0"]
         margin: ["0", "0", "0", "0"]
