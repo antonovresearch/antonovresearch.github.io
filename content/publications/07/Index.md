@@ -5,7 +5,7 @@ authors:
 - A. F. Pozharskii
 - V. A. Ozeryanskii
 - V. Y. Mikshiev
-- admin
+- antonov
 - A. V. Chernyshev
 - A. V. Metelitsa
 - G. S. Borodkin
