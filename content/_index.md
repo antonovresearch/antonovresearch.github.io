@@ -47,62 +47,7 @@ sections:
         #   filename: "team-lab-hero.jpg"
         #   filters:
         #     brightness: 0.6
-        #     contrast: 1.1
-    
-  - block: resume-biography-3
-    content:
-      username: "admin"
-      text: "This is sample text content for the section."
-      button:
-        text: "Click Here"
-        url: "https://example.com"
-    design:
-      background:
-        color: ""
-        # gradient_start: "#4f46e5"
-        # gradient_end: "#7c3aed"
-        # text_color_light: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1"
-
-  - block: resume-languages
-    content:
-      username: "admin"
-      title: "My Section Title"
-      text: "This is sample text content for the section."
-    design:
-      background:
-        color: ""
-        # gradient_start: "#4f46e5"
-        # gradient_end: "#7c3aed"
-        # text_color_light: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1"
-
-  - block: resume-experience
-    content:
-      title: "Experience"
-      items:
-        - title: "Senior Developer"
-          company: "Tech Company"
-          location: "San Francisco, CA"
-          date_start: "2020-01-01"
-          date_end: ""
-          description: |
-            * Led development of key features
-            * Mentored junior developers
-            * Improved system performance by 40%
-        - title: "Software Engineer"
-          company: "Startup Inc"
-          location: "New York, NY"
-          date_start: "2018-06-01"
-          date_end: "2019-12-31"
-          description: "Developed web applications using modern technologies"
-    design:
-      columns: "1"
-    
+        #     contrast: 1.1  
 
   - block: stats
     content:
