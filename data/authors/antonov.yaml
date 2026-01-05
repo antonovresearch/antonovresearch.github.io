@@ -31,6 +31,7 @@ links:
     url: https://bsky.app/profile/alexanderantonov.bsky.social
   - icon: brands/orcid
     url: https://orcid.org/0000-0001-7047-789X
+  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=zckL44IAAAAJ&hl
 
 interests:
