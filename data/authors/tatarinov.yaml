@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: tatarinov
+name_short: I. A. Tatarinov
+name:
+  display: Ilya Tatarinov
+role: Research Intership (2021-2023)
+graduation_date: 2023
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: brands/orcid
+    link: https://orcid.org/0009-0000-7375-8881
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
