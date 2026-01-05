@@ -7,7 +7,7 @@ authors:
 - J. J. Panek
 - E. A. Goremychkin
 - A. F. Pozharskii
-- admin
+- antonov
 - Tolstoy
 - A. Filarowski
 
