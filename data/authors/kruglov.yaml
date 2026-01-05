@@ -1,0 +1,20 @@
+schema: hugoblox/author/v1
+slug: kruglov
+name_short: M. L. Kruglov
+name:
+  display: Maxim Kruglov
+role: PhD Student
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:st106286@student.spbu.ru'
+  - icon: brands/orcid
+    link: https://orcid.org/0009-0000-7526-5677
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Undergraduate Students
