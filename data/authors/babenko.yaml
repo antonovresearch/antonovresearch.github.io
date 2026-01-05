@@ -4,7 +4,7 @@ name_short: M. Babenko
 name:
   display: Maxim Babenko 
 role: Diploma in Chemistry, 2013
-graduation_date: 2013
+weight: 2013
 
 affiliations:
   - name: Southern Federal University
