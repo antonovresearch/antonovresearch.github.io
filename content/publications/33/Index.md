@@ -6,7 +6,7 @@ authors:
 - A. N. Gubanova
 - D. I. Tonkoglazova
 - Tupikina 
-- admin 
+- antonov
 author_notes:
 - ""
 - ""
