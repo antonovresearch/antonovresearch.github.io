@@ -7,7 +7,7 @@ authors:
 - V. Y. Mikshiev
 - A. V. Chernyshev
 - A. V. Metelitsa
-- admin
+- antonov
 
 author_notes:
 - "Corresponding author" 
