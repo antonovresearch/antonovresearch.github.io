@@ -1,3 +1,4 @@
+---
 schema: hugoblox/author/v1
 slug: antonov
 is_owner: true
@@ -92,3 +93,4 @@ sections:
       # spacing:
       #   padding: ["6", "6", "6", "6"]
       # columns: "1"
+---
