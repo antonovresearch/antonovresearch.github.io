@@ -3,7 +3,7 @@ number: 30
 title: "Chiral Diselenophosphoric Acids for Ion Pair Catalysis: A Novel Approach to Enhance Both Proton Donating and Proton Accepting Properties"
 authors:
 - J. Eder 
-- admin
+- antonov
 - Tupikina
 - Gschwind
 author_notes:
