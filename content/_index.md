@@ -124,7 +124,7 @@ sections:
         about: ''
         education: ''
         interests: ''
-      cta:
+      button:
         text: Detailed CV
         url: /antonov
         icon: hero/arrow-right
