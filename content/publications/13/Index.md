@@ -2,7 +2,7 @@
 number: 13
 title: "Sterically facilitated meta-lithiation of arenes, containing electron donating groups"
 authors:
-- admin
+- antonov
 - Bardakov
 - Mulloyarova 
 
