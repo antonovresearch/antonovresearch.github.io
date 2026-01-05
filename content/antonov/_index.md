@@ -1,19 +1,24 @@
 ---
 title: Alexander Antonov
 type: landing
+---
 
 sections:
-  - block: text
+
+  # Hero / biography block
+  - block: feature
     content:
       title: "Dr. Alexander Antonov"
       text: |
         Group Leader  
         University of Regensburg
+      button:
+        text: "Learn More"
+        url: "/antonov/"
     design:
       columns: "1"
-      spacing:
-        padding: ["2rem", 0, "2rem", 0"]
 
+  # Experience
   - block: resume-experience
     content:
       title: "Experience"
@@ -37,4 +42,15 @@ sections:
             * Protein chemistry and chemical proteomics
     design:
       columns: "1"
----
+
+  # Education
+  - block: resume-education
+    content:
+      title: "Education"
+      items:
+        - institution: "University of XYZ"
+          degree: "PhD in Chemistry"
+          date_start: "2010-01-01"
+          date_end: "2014-12-31"
+    design:
+      columns: "1"
