@@ -5,7 +5,7 @@ authors:
 - M. V. Kaplanskiy
 - V. V. Karpov
 - Tupikina
-- admin 
+- antonov
 author_notes:
 - ""
 - ""
