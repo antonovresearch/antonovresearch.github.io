@@ -1,0 +1,15 @@
+schema: hugoblox/author/v1
+slug: dygai
+name_short: L. Dygai 
+name:
+  display: Lilia Dygai  
+role: Diploma in Chemistry, 2013
+graduation_date: 2013
+
+affiliations:
+  - name: Southern Federal University
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
