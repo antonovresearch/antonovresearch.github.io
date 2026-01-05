@@ -3,7 +3,7 @@ number: 1
 title: "H-Bond-Assisted Intramolecular Nucleophilic Displacement of the 1-NMe2 Group in 1,8-Bis(dimethylamino)naphthalenes as a Route to Multinuclear Heterocyclic Compounds and Strained Naphthalene Derivatives"
 authors:
 - M. A. Povalyakhina 
-- admin
+- antonov
 - O. V. Dyablo
 - V. A. Ozeryanskii
 - A. F. Pozharskii 
