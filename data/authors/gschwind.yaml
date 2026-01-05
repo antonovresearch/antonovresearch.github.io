@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: gschwind
+name_short: R. M. Gschwind
+name:
+  display: Prof. Ruth Gschwind
+
+affiliations:
+  - name: Regensburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:sekretariat.gschwind@ur.de'
+  - icon: hero/link
+    link: https://www-oc.chemie.uni-regensburg.de/gschwind/index.html
+    
+highlight_name: false
+website: ""
+user_groups:
+  - " "
