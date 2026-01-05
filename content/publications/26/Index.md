@@ -6,7 +6,7 @@ authors:
 - Tsybulin
 - Yakubenko
 - Tupikina
-- admin 
+- antonov
 author_notes:
 - ""
 - ""
