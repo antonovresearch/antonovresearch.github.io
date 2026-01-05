@@ -4,7 +4,7 @@ title: "Out-Basicity of 1,8-bis(dimethylamino)naphthalene: The experimental and 
 authors:
 - V. A. Ozeryanskii
 - A. F. Pozharskii
-- admin
+- antonov
 - A. Filarowski 
 
 author_notes:
