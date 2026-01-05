@@ -105,6 +105,15 @@ sections:
       spacing:
         padding: ["5rem", 0, "5rem", 0]
     
+  - block: feature
+    content:
+      title: "Meet Our Team"
+    design:
+      columns: "1"
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]
+    
   - block: resume-biography-3
     id: team
     content:
@@ -116,9 +125,6 @@ sections:
         about: ''
         education: ''
         interests: ''
-      button:
-        text: Detailed CV
-        url: /antonov
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -136,8 +142,6 @@ sections:
     
   - block: team-showcase
     content:
-      title: "Meet Our Team"
-
       user_groups:
         - "Postdoctoral Researchers"
         - "PhD Students"
