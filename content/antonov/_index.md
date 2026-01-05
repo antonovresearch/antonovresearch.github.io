@@ -1,24 +1,33 @@
 ---
-title: Alexander Antonov
+title: Dr. Alexander Antonov
 type: landing
 ---
 
 sections:
 
-  # Hero / biography block
+  # -----------------------------
+  # Hero / biography section
+  # -----------------------------
   - block: feature
     content:
       title: "Dr. Alexander Antonov"
       text: |
         Group Leader  
         University of Regensburg
+      # Optional: add a button if you like
       button:
-        text: "Learn More"
+        text: "View CV"
         url: "/antonov/"
+      # Optional: add photo using markdown
+      # image: "/images/antonov.jpg"
     design:
       columns: "1"
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
 
-  # Experience
+  # -----------------------------
+  # Experience / CV
+  # -----------------------------
   - block: resume-experience
     content:
       title: "Experience"
@@ -43,7 +52,9 @@ sections:
     design:
       columns: "1"
 
+  # -----------------------------
   # Education
+  # -----------------------------
   - block: resume-education
     content:
       title: "Education"
