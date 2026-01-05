@@ -108,7 +108,7 @@ sections:
   - block: resume-biography-3
     id: team
     content:
-    title: "Meet Our Team"
+      title: "Meet Our Team"
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
