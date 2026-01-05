@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: babenko
+name_short: M. Babenko 
+name:
+  display: Maxim Babenko 
+role: Bachelor student
+
+affiliations:
+  - name: Southern Federal University
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
