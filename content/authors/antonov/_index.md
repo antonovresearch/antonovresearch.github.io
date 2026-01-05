@@ -1,14 +1,14 @@
+---
+title: Alexander Antonov
+type: landing
+---
+
 sections:
-  - block: text
+  - block: resume-biography-3
     content:
-      title: "Dr. Alexander Antonov"
-      text: |
-        Group Leader  
-        University of Regensburg
+      username: antonov   # must match your slug in data/authors
     design:
       columns: "1"
-      spacing:
-        padding: ["2rem", 0, "2rem", 0]
 
   - block: resume-experience
     content:
