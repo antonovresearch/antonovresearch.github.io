@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: galiakhmetov
+name_short: S. A. Galiakhmetov
+name:
+  display: Stepan Galiakhmetov
+role: Bachelor student
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:st117534@student.spbu.ru'
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Undergraduate Students
