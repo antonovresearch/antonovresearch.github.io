@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-    - block: resume-biography-3
+  - block: resume-biography-3
     id: team
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
