@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: zipse
+name_short: H. Zipse
+name:
+  display: Prof. Hendrik Zipse
+
+affiliations:
+  - name: Ludwig-Maximilians-Universität München
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:zipse@cup.uni-muenchen.de'
+  - icon: hero/link
+    link: https://zipse.cup.uni-muenchen.de/
+    
+highlight_name: false
+website: ""
+user_groups:
+  - " "
