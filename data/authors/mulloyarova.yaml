@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: mulloyarova
+name_short: V. V. Mulloyarova
+name:
+  display: Dr. Valeriia Mulloyarova
+
+affiliations:
+  - name: Saint Petersburg University
+  
+links:
+  - icon: hero/envelope
+    link: 'mailto:v.mulloyarova@spbu.ru'
+  - icon: hero/link
+    link: https://en-chem.spbu.ru/index.php/physical-organic-chemistry/30-research/research-groups/184-research-group-of-professor-tolstoy-p
+    
+highlight_name: false
+website: ""
+user_groups:
+  - " "
