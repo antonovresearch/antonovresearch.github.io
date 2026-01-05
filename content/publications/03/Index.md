@@ -2,7 +2,7 @@
 number: 3
 title: "Ortho-ketimines of 1,8-bis(dimethylamino)naphthalene: Synthesis, hydrolytic stability and transfer of basicity from proton sponge moiety to the imino function"
 authors:
-- admin
+- antonov
 - Mikshiev
 - A. F. Pozharskii
 - V. A. Ozeryanskii
