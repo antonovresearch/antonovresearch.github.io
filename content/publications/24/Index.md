@@ -5,7 +5,7 @@ authors:
 - Bardakov
 - Yakubenko
 - Verkhov
-- admin
+- antonov
 author_notes:
 - ""
 - ""
