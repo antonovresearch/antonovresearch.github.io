@@ -3,7 +3,7 @@ number: 23
 title: "Choice of computational protocol for carbon-lithium spin–spin coupling constants 1JCLi"
 authors:
 - V. V. Karpov
-- admin
+- antonov
 - Tupikina
 author_notes:
 - ""
