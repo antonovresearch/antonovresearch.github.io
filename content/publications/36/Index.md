@@ -4,7 +4,7 @@ title: "A data-driven and quantum chemistry-anchored framework for modeling and 
 authors:
 - Verkhov
 - Meshalkin
-- admin 
+- antonov
 - Tupikina
 
 author_notes:
