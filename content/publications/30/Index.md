@@ -4,7 +4,7 @@ title: "Transition-Metal-Free Synthesis of 2-Substituted Benzo[cd]Indoles via th
 authors:
 - Tsybulin
 - M. V. Kaplanskiy
-- admin
+- antonov
 author_notes:
 - ""
 - ""
