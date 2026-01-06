@@ -70,12 +70,15 @@ sections:
         margin: ["0", "0", "0", "0"]
 
   # =========================
-  # Education
+  # Education (SUPPORTED WAY)
   # =========================
-  - block: resume-education
+  - block: resume-experience
     content:
       title: Education
       username: antonov
+    design:
+      is_education_first: true
+      date_format: "2006"
 
   # =========================
   # Awards
