@@ -96,28 +96,19 @@ sections:
       # Education or Experience section first?
       is_education_first: true 
     
-- block: resume-experience
-  content:
-    title: "Academic Experience"
-    username: ""      # empty username disables pulling default education
-    items:
-      - title: "Senior AI Research Scientist"
-        company: "Meta AI"
-        location: "San Francisco, CA"
-        date_start: "2020-01-01"
-        date_end: ""
-        description: |
-          * Led development of key features
-          * Mentored junior developers
-          * Improved system performance by 40%
-      - title: "AI Research Intern"
-        company: "OpenAI"
-        location: "San Francisco, CA"
-        date_start: "2019-06-01"
-        date_end: "2019-12-31"
-        description: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering."
-  design:
-    columns: "1"
+  - block: resume-experience
+    content:
+      title: "Academic Experience"
+      username: ""      # empty username disables pulling default education
+      items:
+        - title: "Senior AI Research Scientist"
+          company: "Meta AI"
+          location: "San Francisco, CA"
+          date_start: "2020-01-01"
+          date_end: ""
+
+    design:
+      columns: "1"
 
   # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
   - block: markdown
