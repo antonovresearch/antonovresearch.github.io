@@ -344,10 +344,10 @@ sections:
         - icon: brands/bluesky
           url: https://bsky.app/profile/alexanderantonov.bsky.social
 
-       #prospective:
-         #title: Prospective Members
-         #text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
-         #button:
+       prospective:
+         title: Prospective Members
+         text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
+         button:
            text: View Open Positions
            url: /opportunities
       #map_url: https://maps.google.com/?q=University+of+Excellence
