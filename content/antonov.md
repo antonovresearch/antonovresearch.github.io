@@ -13,6 +13,9 @@ sections:
         about: ""
         education: ""
         interests: ""
+      button:
+        text: Detailed CV
+        url: /antonov
     design:
       background:
         gradient_mesh:
@@ -24,7 +27,7 @@ sections:
         shape: square
 
   # =========================
-  # Research Experience
+  # Experience
   # =========================
   - block: resume-experience
     content:
@@ -51,8 +54,6 @@ sections:
   - block: collection
     content:
       title: ""
-      filters:
-        folders: []
       items:
         - title: Teaching
           link: https://antonovlab.org/#teaching
