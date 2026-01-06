@@ -228,7 +228,11 @@ sections:
           status: finished
           gradient: from-blue-400 to-indigo-600
           icon: custom/rfbr
-
+      cta:
+        text: See All Funding
+        url: /funding
+        icon: hero/arrow-right
+    
     design:
       layout: cards
       show_logo: true        
