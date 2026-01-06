@@ -86,7 +86,16 @@ sections:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
-
+    
+  - block: resume-experience
+    content:
+      username: antonov
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true 
+    
   - block: resume-experience
     id: experience
     content:
@@ -131,10 +140,6 @@ sections:
             * Tech stack: React, WordPress, PHP, MySQL
     design:
       columns: '1'
-      background:
-        color:
-          light: "#ffffff"
-          dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
 
