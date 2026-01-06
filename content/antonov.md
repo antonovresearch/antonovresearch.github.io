@@ -3,6 +3,7 @@ title: "Dr. Alexander Antonov"
 type: landing
 
 sections:
+
   # =========================
   # Biography
   # =========================
@@ -43,24 +44,24 @@ sections:
   - block: resume-experience
     content:
       title: Institutional Responsibilities
-      field: institutional_responsibilities
       username: antonov
+      field: institutional_responsibilities
     design:
       date_format: "January 2006"
 
   # =========================
-  # Teaching & Funding buttons
+  # Teaching & Funding Buttons
   # =========================
-  - block: collection
+  - block: cta-image-paragraph
     content:
       title: ""
-      items:
-        - title: Teaching
-          link: https://antonovlab.org/#teaching
-        - title: Funding
-          link: https://antonovlab.org/#funding
+      text: ""
+      button:
+        - text: Teaching
+          url: https://antonovlab.org/#teaching
+        - text: Funding
+          url: https://antonovlab.org/#funding
     design:
-      columns: 2
       spacing:
         padding: ["0", "0", "0", "0"]
         margin: ["0", "0", "0", "0"]
@@ -72,6 +73,7 @@ sections:
     content:
       title: Education
       username: antonov
+      field: education
     design:
       is_education_first: true
       date_format: "2006"
