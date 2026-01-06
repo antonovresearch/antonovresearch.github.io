@@ -47,11 +47,14 @@ sections:
           Sep 2005 – Jun 2009
     design:
       columns: "1"
+      spacing:
+        padding: ["1rem", "0", "1rem", "0"]
+      text_align: left
 
-  # ----------------- EXPERIENCE -----------------
+  # ----------------- ACADEMIC EXPERIENCE -----------------
   - block: markdown
     content:
-      title: "Experience"
+      title: "Academic Experience"
       text: |
         - 💼 **Researcher**  
           Regensburg University  
@@ -78,6 +81,9 @@ sections:
           Sep 2012 – Dec 2015
     design:
       columns: "1"
+      spacing:
+        padding: ["1rem", "0", "1rem", "0"]
+      text_align: left
 
   # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
   - block: markdown
@@ -105,14 +111,20 @@ sections:
           Jun 2015 – Nov 2016
     design:
       columns: "1"
+      spacing:
+        padding: ["1rem", "0", "1rem", "0"]
+      text_align: left
 
   # ----------------- LANGUAGES -----------------
   - block: resume-languages
     content:
       title: Languages
       username: antonov
-    
-    
+    design:
+      spacing:
+        padding: ["1rem", "0", "1rem", "0"]
+
+  # ----------------- TEACHING & FUNDING BUTTONS -----------------
   - block: cta-button-list
     content:
       title: ""
@@ -121,11 +133,13 @@ sections:
           url: "/publication"
           icon: "document-text"
         - text: "Funding"
-          url: "/#Funding"
+          url: "/#funding"
           icon: "currency-euro"
         - text: "Teaching"
-          url: "/teaching"
+          url: "/#teaching"
           icon: "book-open"
     design:
       columns: "3"
+      spacing:
+        padding: ["1rem", "0", "1rem", "0"]
 ---
