@@ -46,31 +46,26 @@ sections:
       date_format: "January 2006"
 
   # =========================
-  # Teaching & Funding buttons
+  # Teaching & Funding links
   # =========================
-  - block: cta-image-paragraph
+  - block: collection
     content:
       title: ""
-      text: ""
+      filters:
+        folders: []
       items:
         - title: Teaching
-          text: ""
-          button:
-            text: Teaching
-            url: https://antonovlab.org/#teaching
+          link: https://antonovlab.org/#teaching
         - title: Funding
-          text: ""
-          button:
-            text: Funding
-            url: https://antonovlab.org/#funding
+          link: https://antonovlab.org/#funding
     design:
-      columns: "2"
+      columns: 2
       spacing:
         padding: ["0", "0", "0", "0"]
         margin: ["0", "0", "0", "0"]
 
   # =========================
-  # Education (SUPPORTED WAY)
+  # Education
   # =========================
   - block: resume-experience
     content:
