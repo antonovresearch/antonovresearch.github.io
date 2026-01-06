@@ -18,7 +18,6 @@ role: Group Leader
 
 affiliations:
   - name: Regensburg University
-    #url: https://ai.meta.com/
 
 links:
   - icon: hero/envelope
@@ -62,15 +61,12 @@ experience:
   - role: Researcher
     org: Regensburg University
     start: 2023-05-01
-    #summary: |
-      #Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-      
+    
   - role: Invited lecturer
     org: Ludwig-Maximilians-Universität München
     start: 2024-04-01
     end: 2025-07-31
-    #summary: |
-      #Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
   - role: Associate professor
     org: Saint Petersburg University
     start: 2019-09-01
@@ -89,33 +85,7 @@ experience:
   - role: Assistant professor
     org: Southern Federal University
     start: 2012-09-01
-    end: 2015-12-31
-      
-institutional_responsibilities:
-  - role: Scientific supervisor of the Bachelor education program “Chemistry”
-    org: Saint Petersburg University
-    start: 2021-09-01
-    end: 2023-02-28
-    
-  - role: Vice Chair of the department of Physical Organic Chemistry
-    org: Saint Petersburg University
-    start: 2021-09-01
-    end: 2023-02-28  
-    
-  - role: Member of the Academic Senate of the Faculty of Chemistry
-    org: Southern Federal University
-    start: 2017-02-01
-    end: 2018-04-01
-    
-  - role: Chairman of the Young Researchers Council of the Faculty of Chemistry
-    org: Southern Federal University
-    start: 2017-01-01
-    end: 2018-04-01
-
-  - role: Dean for Research of the Faculty of Chemistry
-    org: Southern Federal University
-    start: 2015-06-01
-    end: 2016-11-01      
+    end: 2015-12-31        
     
 languages:
   - name: Russian
@@ -126,39 +96,7 @@ languages:
     label: Fluent
   - name: German
     level: 4
-    label: Advanced
-
-awards:
-  - title: Scientific supervisor of the Bachelor education program “Chemistry”
-    awarder: Saint Petersburg University
-    #date: "1900-01-01"
-    summary: Septembe 2021 - February 2023
-    icon: hero/building-library
-    
-  - title: Vice Chair of the department of Physical Organic Chemistry
-    awarder: Saint Petersburg University
-    #date: "1900-01-01"
-    summary: September 2021 - February 2023
-    icon: hero/building-library
-    
-  - title: Member of the Academic Senate of the Faculty of Chemistry
-    awarder: Southern Federal University
-    #date: "1900-01-01"
-    summary: February 2017 - April 2018
-    icon: hero/building-library
-    
-  - title: Chairman of the Young Researchers Council of the Faculty of Chemistry
-    awarder: Southern Federal University
-    #date: "1900-01-01"
-    summary: January 2017 - April 2018
-    icon: hero/building-library
-
-  - title: Dean for Research of the Faculty of Chemistry
-    awarder: Southern Federal University
-    #date: "1900-01-01"
-    summary: June 2015 - November 2016
-    icon: hero/building-library
-    
+    label: Advanced  
       
 user_groups:
   - Principal Investigator
