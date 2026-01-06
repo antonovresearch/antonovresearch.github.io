@@ -17,11 +17,7 @@ sections:
       text: |
         We are a research group focused on the investigation of the role of non-covalent interactions in the structural features, synthetic methodology and reactivity of main group organometallics.<br><br>
         As of now we are a subgroup of the group of Prof. Ruth Gschwind at the University of Regensburg.
-      # primary_action:
-        # text: Join Our Team
-        # url: '#team'
-        # icon: hero/user-group
-      secondary_action:
+      primary_action:
         text: View Publications
         url: '#publications'
         icon: hero/academic-cap
@@ -352,8 +348,8 @@ sections:
          #title: Prospective Members
          #text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
          #button:
-           #text: View Open Positions
-           #url: /opportunities
+           text: View Open Positions
+           url: /opportunities
       #map_url: https://maps.google.com/?q=University+of+Excellence
       show_form: false
     design:
@@ -367,7 +363,7 @@ sections:
       text: We are always looking for talented and motivated researchers to join our lab.
       button:
         text: View Open Positions
-         #url: /opportunities
+        url: /opportunities
     design:
       card:
         # Card background color (CSS class)
