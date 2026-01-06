@@ -201,6 +201,12 @@ sections:
           status: finished
           gradient: from-blue-400 to-indigo-600
           icon: custom/rfbr
+    
+        - name: The development of novel BINOL based organocatalysts
+          description: Deutscher Akademischer Austauschdienst, 2020
+          status: finished
+          gradient: from-blue-400 to-indigo-600
+          icon: custom/daad    
 
 
         - name: Superbasic non-nucleophilic polymeric materials based on proton sponges
@@ -265,7 +271,7 @@ sections:
       title: Recent Teaching Activities
       subtitle: Courses Offered by Our Lab
       items:
-        - name: "Organic Chemistry: Seminar to the Lab Course" 
+        - name: "Organic Chemistry: Seminar" 
           description: Bachelor (in German), Regensburg University, since 2025
           status: active
           icon: hero/book-open
@@ -277,7 +283,7 @@ sections:
           icon: hero/book-open
           gradient: from-yellow-400 to-yellow-600
 
-        - name: "New Synthetic methods in Organic Chemistry: Lecture" 
+        - name: "New Synthetic Methods in Organic Chemistry: Lecture" 
           description: Master (In English), Ludwig-Maximilians-Universität München, 2024 - 2025
           status: inactive
           icon: hero/book-open
@@ -300,8 +306,6 @@ sections:
       title: "Our Collaboration Partners"
       user_groups:
         - " "
-      sort_by: "Params.last_name"
-      sort_ascending: true
     design:
       show_role: true
       show_organizations: true
