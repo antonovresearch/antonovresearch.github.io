@@ -46,28 +46,27 @@ education:
     institution: Southern Federal University
     start: 2011-10-01
     end: 2014-09-10
-    #summary: |
+    summary: with Prof. Alexander F. Pozharskii
       
   - degree:  MS in Organic Chemistry 
     institution: Southern Federal University
     start: 2009-09-01
     end: 2011-06-30
+    summary: with Prof. Alexander F. Pozharskii
     
   - degree: BS in Physical Chemistry 
     institution: Southern Federal University
     start: 2005-09-01
     end: 2009-06-30
-
+    summary: with Prof. Vladimir V. Lukov
+    
 experience:
   - role: Researcher
     org: Regensburg University
     start: 2023-05-01
     #summary: |
       #Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    #button:
-      #text: View portfolio
-      #url: /
-      #icon: hero/arrow-down-tray
+      
   - role: Invited lecturer
     org: Ludwig-Maximilians-Universität München
     start: 2024-04-01
@@ -93,7 +92,12 @@ experience:
     org: Southern Federal University
     start: 2012-09-01
     end: 2015-12-31
-
+    
+  - button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+      
 institutional_responsibilities:
   - role: Scientific supervisor of the Bachelor education program “Chemistry”
     org: Saint Petersburg University
@@ -134,26 +138,31 @@ languages:
 awards:
   - title: Scientific supervisor of the Bachelor education program “Chemistry”
     awarder: Saint Petersburg University
+    date: " "
     summary: Septembe 2021 - February 2023
     icon: hero/building-library
     
   - title: Vice Chair of the department of Physical Organic Chemistry
     awarder: Saint Petersburg University
+    date: " "
     summary: September 2021 - February 2023
     icon: hero/building-library
     
   - title: Member of the Academic Senate of the Faculty of Chemistry
     awarder: Southern Federal University
+    date: " "
     summary: February 2017 - April 2018
     icon: hero/building-library
     
   - title: Chairman of the Young Researchers Council of the Faculty of Chemistry
     awarder: Southern Federal University
+    date: " "
     summary: January 2017 - April 2018
     icon: hero/building-library
 
   - title: Dean for Research of the Faculty of Chemistry
     awarder: Southern Federal University
+    date: " "
     summary: June 2015 - November 2016
     icon: hero/building-library
     
