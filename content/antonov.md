@@ -41,13 +41,13 @@ sections:
       # Education or Experience section first?
       is_education_first: tue
     
-  - block: resume-awards
-    content:
-      title: "Institutional Responsibilities"
-      username: antonov
-      field: institutional_responsibilities
-    design:
-      icon: "hero/building-library"
+- block: resume-experience
+  content:
+    title: "Institutional Responsibilities"
+    username: antonov
+    field: institutional_responsibilities
+  design:
+    date_format: "January 2006"
   
   - block: resume-languages
     content:
