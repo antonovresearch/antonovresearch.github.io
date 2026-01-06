@@ -9,20 +9,17 @@ design:
 
 # Page sections
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: antonov
-      text: ''
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+      username: "antonov"
+      text: "This is sample text content for the section."
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
+      # spacing:
+      #   padding: ["6", "6", "6", "6"]
+      # columns: "1"
 
       # Name heading sizing to accommodate long or short names
       name:
@@ -32,6 +29,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square
+    
   - block: resume-experience
     content:
       username: antonov
@@ -66,7 +64,4 @@ sections:
           icon: "book-open"
     design:
       columns: "3"
-      background:
-        color: "green"
----
 ---
