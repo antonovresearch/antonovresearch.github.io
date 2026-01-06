@@ -42,7 +42,7 @@ sections:
         Our lab is committed to diversity and inclusion. We encourage applications from underrepresented groups in STEM.
       button:
         text: Contact Dr. Antonov
-        url: 'mailto:jane.smith@example.edu?subject=Application: Research Position'
+        url: 'mailto:alexander.antonov@ur.de'
     design:
       card:
         css_class: 'bg-primary-300 dark:bg-primary-800'
