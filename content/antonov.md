@@ -34,6 +34,7 @@ sections:
     content:
       title: "Education"
       text: |
+        <div class="text-left">
         - 🎓 **PhD in Organic Chemistry**  
           Southern Federal University  
           Oct 2011 – Sep 2014
@@ -45,17 +46,18 @@ sections:
         - 🎓 **BS in Physical Chemistry**  
           Southern Federal University  
           Sep 2005 – Jun 2009
+        </div>
     design:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
-      text_align: left
 
   # ----------------- ACADEMIC EXPERIENCE -----------------
   - block: markdown
     content:
       title: "Academic Experience"
       text: |
+        <div class="text-left">
         - 💼 **Researcher**  
           Regensburg University  
           May 2023 – Present
@@ -79,17 +81,18 @@ sections:
         - 💼 **Assistant Professor**  
           Southern Federal University  
           Sep 2012 – Dec 2015
+        </div>
     design:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
-      text_align: left
 
   # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
   - block: markdown
     content:
       title: "Institutional Responsibilities"
       text: |
+        <div class="text-left">
         - 🏛 **Scientific supervisor of the Bachelor education program “Chemistry”**  
           Saint Petersburg University  
           Sep 2021 – Feb 2023
@@ -109,11 +112,11 @@ sections:
         - 🏛 **Dean for Research of the Faculty of Chemistry**  
           Southern Federal University  
           Jun 2015 – Nov 2016
+        </div>
     design:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
-      text_align: left
 
   # ----------------- LANGUAGES -----------------
   - block: resume-languages
