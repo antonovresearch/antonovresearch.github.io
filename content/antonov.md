@@ -28,13 +28,26 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square
-    
+ 
+  - block: resume-experience
+    content:
+      username: antonov
+      title: "Academic Experience"
+      items:
+        - title: "Test"
+          company: "Test"
+          location: "Test"
+          date_start: "2020-01-01"
+          date_end: ""    
+    design:
+      date_format: 'January 2006'
+      is_education_first: true 
+
   # ----------------- EDUCATION -----------------
   - block: markdown
     content:
       title: "Education"
       text: |
-        <div class="text-left">
         - 🎓 **PhD in Organic Chemistry**  
           Southern Federal University  
           Oct 2011 – Sep 2014
@@ -46,18 +59,17 @@ sections:
         - 🎓 **BS in Physical Chemistry**  
           Southern Federal University  
           Sep 2005 – Jun 2009
-        </div>
     design:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
+      text_align: left
 
   # ----------------- ACADEMIC EXPERIENCE -----------------
   - block: markdown
     content:
       title: "Academic Experience"
       text: |
-        <div class="text-left">
         - 💼 **Researcher**  
           Regensburg University  
           May 2023 – Present
@@ -81,41 +93,17 @@ sections:
         - 💼 **Assistant Professor**  
           Southern Federal University  
           Sep 2012 – Dec 2015
-        </div>
     design:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
-    
-  - block: resume-experience
-    content:
-      username: antonov
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: true 
-    
-  - block: resume-experience
-    content:
-      title: "Academic Experience"
-      username: ""      # empty username disables pulling default education
-      items:
-        - title: "Senior AI Research Scientist"
-          company: "Meta AI"
-          location: "San Francisco, CA"
-          date_start: "2020-01-01"
-          date_end: ""
-
-    design:
-      columns: "1"
+      text_align: left
 
   # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
   - block: markdown
     content:
       title: "Institutional Responsibilities"
       text: |
-        <div class="text-left">
         - 🏛 **Scientific supervisor of the Bachelor education program “Chemistry”**  
           Saint Petersburg University  
           Sep 2021 – Feb 2023
@@ -135,11 +123,11 @@ sections:
         - 🏛 **Dean for Research of the Faculty of Chemistry**  
           Southern Federal University  
           Jun 2015 – Nov 2016
-        </div>
     design:
       columns: "1"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
+      text_align: left
 
   # ----------------- LANGUAGES -----------------
   - block: resume-languages
