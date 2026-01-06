@@ -1,7 +1,6 @@
 ---
 title: "Dr. Alexander Antonov"
 type: landing
----
 
 sections:
   # =========================
@@ -93,3 +92,4 @@ sections:
     content:
       title: Languages
       username: antonov
+---
