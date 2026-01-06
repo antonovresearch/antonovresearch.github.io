@@ -44,19 +44,19 @@ interests:
 education:
   - degree: PhD in Organic Chemistry 
     institution: Southern Federal University
-    start: 2011
-    end: 2014
+    start: 2011-10-01
+    end: 2014-09-10
     #summary: |
       
   - degree:  MS in Organic Chemistry 
     institution: Southern Federal University
-    start: 2009
-    end: 2011
+    start: 2009-09-01
+    end: 2011-06-30
     
   - degree: BS in Physical Chemistry 
     institution: Southern Federal University
-    start: 2005
-    end: 2009
+    start: 2005-09-01
+    end: 2009-06-30
 
 experience:
   - role: Researcher
@@ -93,6 +93,32 @@ experience:
     org: Southern Federal University
     start: 2012-09-01
     end: 2015-12-31
+
+institutional_responsibilities:
+  - role: Scientific supervisor of the Bachelor education program “Chemistry”
+    org: Saint Petersburg University
+    start: 2021-09-01
+    end: 2023-02-28
+    
+  - role: Vice Chair of the department of Physical Organic Chemistry
+    org: Saint Petersburg University
+    start: 2021-09-01
+    end: 2023-02-28  
+    
+  - role: Member of the Academic Senate of the Faculty of Chemistry
+    org: Southern Federal University
+    start: 2017-02-01
+    end: 2018-04-01
+    
+  - role: Chairman of the Young Researchers Council of the Faculty of Chemistry
+    org: Southern Federal University
+    start: 2017-01-01
+    end: 2018-04-01
+
+  - role: Dean for Research of the Faculty of Chemistry
+    org: Southern Federal University
+    start: 2015-06-01
+    end: 2016-11-01      
     
 skills:
   - name: Technical Skills
@@ -121,14 +147,14 @@ languages:
     label: Fluent
   - name: German
     level: 4
-    label: Fluent
+    label: Advanced
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+  #- title: Best Paper Award
+    #awarder: NeurIPS
+    #date: "2022-12-01"
+    #summary: Awarded for groundbreaking work on efficient training of large models.
+    #icon: hero/trophy
     
 user_groups:
   - Principal Investigator
