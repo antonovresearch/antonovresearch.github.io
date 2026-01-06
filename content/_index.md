@@ -203,7 +203,7 @@ sections:
           icon: custom/rfbr
     
         - name: The development of novel BINOL based organocatalysts
-          description: Deutscher Akademischer Austauschdienst, 2020
+          description: Deutscher Akademischer Austauschdienst, 2020. Three month research stay in the group of Prof. Ruth Gschwind (Regensburg University)
           status: finished
           gradient: from-blue-400 to-indigo-600
           icon: custom/daad    
