@@ -12,8 +12,8 @@ name:
   pronouns: he/him
 postnominals:
   - PhD
-#status:
-  #icon: "☕️"
+status:
+  icon: "☕️"
 role: Group Leader
 
 affiliations:
@@ -159,12 +159,7 @@ awards:
     summary: June 2015 - November 2016
     icon: hero/building-library
     
-  #- title: Best Paper Award
-    #awarder: NeurIPS
-    #date: "2022-12-01"
-    #summary: Awarded for groundbreaking work on efficient training of large models.
-    #icon: hero/trophy
-    
+      
 user_groups:
   - Principal Investigator
 ---
