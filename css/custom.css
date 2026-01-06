@@ -3,7 +3,9 @@
   height: 8rem;
 }
 
-/* Left-align all Markdown blocks */
+/* Left-align Markdown block content */
 .hb-markdown {
-  text-align: left !important;
+  display: block !important;       /* undo flex centering */
+  justify-content: flex-start !important; /* only applies if flex was used */
+  text-align: left !important;     /* ensure text inside aligns left */
 }
