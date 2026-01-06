@@ -124,7 +124,7 @@ sections:
       button:
         text: Detailed CV
         url: /antonov
-        icon: ''
+        icon: 'arrow-left'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
