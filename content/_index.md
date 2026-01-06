@@ -108,7 +108,7 @@ sections:
       title: Meet Our Team
     design:
       spacing:
-        padding: ["1rem", "0", "1rem", "0"]
+        padding: ["1rem", "0", "0", "0"]
         margin: [0, 0, 0, 0]
     
   - block: resume-biography-3
@@ -131,7 +131,7 @@ sections:
         gradient_mesh:
           enable: true
       spacing:
-        padding: ["1rem", "0", "1rem", "0"]
+        padding: ["0", "0", "0", "0"]
         margin: [0, 0, 0, 0]
     
       # Name heading sizing to accommodate long or short names
@@ -164,7 +164,7 @@ sections:
       show_interests: true
       show_social: true
       spacing:
-        padding: ["5rem", "0", "5rem", "0"]
+        padding: ["0", "0", "5rem", "0"]
     
   - block: collection
     id: publications
