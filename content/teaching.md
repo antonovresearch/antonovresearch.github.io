@@ -12,75 +12,63 @@ sections:
       title: Teaching Activities
       text: |
 
-        🧪 **Organic Chemistry**  
+        🧪 **Organic Chemistry**: Seminar    
         *Bachelor Chemistry / Biochemistry (in German)*  
-        Seminar  
         University of Regensburg  
         Since 2025
     
-        🧪 **Modern Organometallic Synthesis**  
+        🧪 **Modern Organometallic Synthesis**: Lecture    
         *Master Chemistry (in English)*  
-        Lecture  
         University of Regensburg  
         Since 2025
 
-        🧪 **New Synthetic Methods in Organic Chemistry**  
+        🧪 **New Synthetic Methods in Organic Chemistry**: Lecture    
         *Master Chemistry (in English)*  
-        Lecture  
         Ludwig-Maximilians-Universität München  
         2024–2025
 
-        🧪 **Modern Organometallic Chemistry**  
+        🧪 **Modern Organometallic Chemistry**: Lecture    
         *Master Chemistry (in English)*  
-        Lecture  
         Saint Petersburg University  
         2021–2023
 
-        🧪 **Organoelement Chemistry**  
+        🧪 **Organoelement Chemistry**: Lecture    
         *Bachelor Chemistry (in Russian)*  
-        Lecture  
         Saint Petersburg University  
         2021–2023
 
-        🧪 **Organic Chemistry**  
+        🧪 **Organic Chemistry**: Seminar      
         *Bachelor Biology (in Russian)*  
-        Seminar  
         Saint Petersburg University  
         2020–2023
 
-        🧪 **Chemical Bases of Life**  
-        *Bachelor Chemistry (in Russian)*  
-        Lecture  
+        🧪 **Chemical Bases of Life**: Lecture    
+        *Bachelor Chemistry (in Russian)*   
         Saint Petersburg University  
         2019–2021
 
-        🧪 **Computer Science for Chemists**  
+        🧪 **Computer Science for Chemists**: Practical Class  
         *Bachelor Material Science (in Russian)*  
-        Practical Class  
         Saint Petersburg University  
         2019–2023
 
-        🧪 **Organic Chemistry**  
+        🧪 **Organic Chemistry**: Lecture    
         *Bachelor Chemistry and Biology Teaching (in Russian)*  
-        Lecture  
         Southern Federal University  
         2017–2018
 
-        🧪 **Functional Analysis of Organic Compounds**  
+        🧪 **Functional Analysis of Organic Compounds**: Lecture    
         *Bachelor Chemistry (in Russian)*  
-        Lecture  
         Southern Federal University  
         2014–2017
 
-        🧪 **Organometallic Chemistry**  
+        🧪 **Organometallic Chemistry**: Lecture  
         *Bachelor Chemistry (in Russian)*  
-        Lecture  
         Southern Federal University  
         2015–2018
 
-        🧪 **Organic Chemistry**  
+        🧪 **Organic Chemistry**: Seminar      
         *Bachelor Chemistry / Material Science (in Russian)*  
-        Seminar  
         Southern Federal University  
         2012–2016
 
