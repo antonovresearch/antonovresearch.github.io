@@ -96,52 +96,28 @@ sections:
       # Education or Experience section first?
       is_education_first: true 
     
-  - block: resume-experience
-    id: experience
-    content:
-      title: Experience
-      date_format: Jan 2006
-      items:
-        - title: Senior Software Engineer
-          company: Tech Corp
-          company_url: ''
-          company_logo: ''
-          location: San Francisco, CA
-          date_start: '2023-01-01'
-          date_end: ''
-          description: |2-
-            * Lead development of microservices architecture serving 1M+ users
-            * Improved API response time by 40% through optimization
-            * Mentored team of 5 junior developers
-            * Tech stack: React, Node.js, PostgreSQL, AWS
-        - title: Full-Stack Developer
-          company: Startup Inc
-          company_url: ''
-          company_logo: ''
-          location: Remote
-          date_start: '2021-06-01'
-          date_end: '2022-12-31'
-          description: |2-
-            * Built and deployed 3 production applications from scratch
-            * Implemented CI/CD pipeline reducing deployment time by 60%
-            * Collaborated with design team on UI/UX improvements
-            * Tech stack: Next.js, Express, MongoDB, Docker
-        - title: Junior Developer
-          company: Web Agency
-          company_url: ''
-          company_logo: ''
-          location: New York, NY
-          date_start: '2020-01-01'
-          date_end: '2021-05-31'
-          description: |2-
-            * Developed client websites using modern web technologies
-            * Maintained and updated legacy codebases
-            * Participated in code reviews and agile ceremonies
-            * Tech stack: React, WordPress, PHP, MySQL
-    design:
-      columns: '1'
-      spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+- block: resume-experience
+  content:
+    title: "Academic Experience"
+    username: ""      # empty username disables pulling default education
+    items:
+      - title: "Senior AI Research Scientist"
+        company: "Meta AI"
+        location: "San Francisco, CA"
+        date_start: "2020-01-01"
+        date_end: ""
+        description: |
+          * Led development of key features
+          * Mentored junior developers
+          * Improved system performance by 40%
+      - title: "AI Research Intern"
+        company: "OpenAI"
+        location: "San Francisco, CA"
+        date_start: "2019-06-01"
+        date_end: "2019-12-31"
+        description: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering."
+  design:
+    columns: "1"
 
   # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
   - block: markdown
