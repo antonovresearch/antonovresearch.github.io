@@ -30,101 +30,81 @@ sections:
         shape: square
     
   # ----------------- EDUCATION -----------------
-  - block: collection
+  - block: markdown
     content:
       title: "Education"
-      items:
-        - icon: "hero/academic-cap"
-          title: "PhD in Organic Chemistry"
-          subtitle: "Southern Federal University"
-          text: "Oct 2011 – Sep 2014"
-        - icon: "hero/academic-cap"
-          title: "MS in Organic Chemistry"
-          subtitle: "Southern Federal University"
-          text: "Sep 2009 – Jun 2011"
-        - icon: "hero/academic-cap"
-          title: "BS in Physical Chemistry"
-          subtitle: "Southern Federal University"
-          text: "Sep 2005 – Jun 2009"
+      text: |
+        - 🎓 **PhD in Organic Chemistry**  
+          Southern Federal University  
+          Oct 2011 – Sep 2014
+
+        - 🎓 **MS in Organic Chemistry**  
+          Southern Federal University  
+          Sep 2009 – Jun 2011
+
+        - 🎓 **BS in Physical Chemistry**  
+          Southern Federal University  
+          Sep 2005 – Jun 2009
     design:
       columns: "1"
 
   # ----------------- EXPERIENCE -----------------
-  - block: collection
+  - block: markdown
     content:
       title: "Experience"
-      items:
-        - icon: "hero/briefcase"
-          title: "Researcher"
-          subtitle: "Regensburg University"
-          text: "May 2023 – Present"
-        - icon: "hero/briefcase"
-          title: "Invited Lecturer"
-          subtitle: "Ludwig-Maximilians-Universität München"
-          text: "Apr 2024 – Jul 2025"
-        - icon: "hero/briefcase"
-          title: "Associate Professor"
-          subtitle: "Saint Petersburg University"
-          text: "Sep 2019 – Feb 2023"
-        - icon: "hero/briefcase"
-          title: "Senior Researcher"
-          subtitle: "Saint Petersburg University"
-          text: "Apr 2018 – Aug 2019"
-        - icon: "hero/briefcase"
-          title: "Senior Researcher"
-          subtitle: "Southern Federal University"
-          text: "Jan 2016 – Mar 2018"
-        - icon: "hero/briefcase"
-          title: "Assistant Professor"
-          subtitle: "Southern Federal University"
-          text: "Sep 2012 – Dec 2015"
+      text: |
+        - 💼 **Researcher**  
+          Regensburg University  
+          May 2023 – Present
+
+        - 💼 **Invited Lecturer**  
+          Ludwig-Maximilians-Universität München  
+          Apr 2024 – Jul 2025
+
+        - 💼 **Associate Professor**  
+          Saint Petersburg University  
+          Sep 2019 – Feb 2023
+
+        - 💼 **Senior Researcher**  
+          Saint Petersburg University  
+          Apr 2018 – Aug 2019
+
+        - 💼 **Senior Researcher**  
+          Southern Federal University  
+          Jan 2016 – Mar 2018
+
+        - 💼 **Assistant Professor**  
+          Southern Federal University  
+          Sep 2012 – Dec 2015
     design:
       columns: "1"
 
   # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
-  - block: collection
+  - block: markdown
     content:
       title: "Institutional Responsibilities"
-      items:
-        - icon: "hero/building-library"
-          title: "Scientific supervisor of the Bachelor education program “Chemistry”"
-          subtitle: "Saint Petersburg University"
-          text: "Sep 2021 – Feb 2023"
-        - icon: "hero/building-library"
-          title: "Vice Chair of the Department of Physical Organic Chemistry"
-          subtitle: "Saint Petersburg University"
-          text: "Sep 2021 – Feb 2023"
-        - icon: "hero/building-library"
-          title: "Member of the Academic Senate of the Faculty of Chemistry"
-          subtitle: "Southern Federal University"
-          text: "Feb 2017 – Apr 2018"
-        - icon: "hero/building-library"
-          title: "Chairman of the Young Researchers Council"
-          subtitle: "Southern Federal University"
-          text: "Jan 2017 – Apr 2018"
-        - icon: "hero/building-library"
-          title: "Dean for Research of the Faculty of Chemistry"
-          subtitle: "Southern Federal University"
-          text: "Jun 2015 – Nov 2016"
+      text: |
+        - 🏛 **Scientific supervisor of the Bachelor education program “Chemistry”**  
+          Saint Petersburg University  
+          Sep 2021 – Feb 2023
+
+        - 🏛 **Vice Chair of the Department of Physical Organic Chemistry**  
+          Saint Petersburg University  
+          Sep 2021 – Feb 2023
+
+        - 🏛 **Member of the Academic Senate of the Faculty of Chemistry**  
+          Southern Federal University  
+          Feb 2017 – Apr 2018
+
+        - 🏛 **Chairman of the Young Researchers Council**  
+          Southern Federal University  
+          Jan 2017 – Apr 2018
+
+        - 🏛 **Dean for Research of the Faculty of Chemistry**  
+          Southern Federal University  
+          Jun 2015 – Nov 2016
     design:
       columns: "1"
-
-  # ----------------- TEACHING & FUNDING BUTTONS -----------------
-  - block: cta-button-list
-    content:
-      title: ""
-      buttons:
-        - text: "Publications"
-          url: "/publication"
-          icon: "document-text"
-        - text: "Funding"
-          url: "/#funding"
-          icon: "currency-euro"
-        - text: "Teaching"
-          url: "/#teaching"
-          icon: "book-open"
-    design:
-      columns: "3"
 
   # ----------------- LANGUAGES -----------------
   - block: resume-languages
