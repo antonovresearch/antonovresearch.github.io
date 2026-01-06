@@ -39,7 +39,7 @@ sections:
         shape: square
   - block: resume-experience
     content:
-      username: me
+      username: antonov
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -48,13 +48,13 @@ sections:
   - block: resume-skills
     content:
       title: Skills & Hobbies
-      username: me
+      username: antonov
   - block: resume-awards
     content:
       title: Awards
-      username: me
+      username: antonov
   - block: resume-languages
     content:
       title: Languages
-      username: me
+      username: antonov
 ---
