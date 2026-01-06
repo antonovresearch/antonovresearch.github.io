@@ -95,10 +95,7 @@ sections:
           description: New methods for the synthesis of organopnictogens
           icon: custom/icon_P
           gradient: from-purple-400 to-pink-600
-      #cta:
-        #text: Active Research Projects
-        #url: /#research
-        #icon: hero/arrow-right
+
     design:
       layout: cards
       css_class: " "
@@ -106,6 +103,7 @@ sections:
         padding: ["5rem", 0, "5rem", 0]
 
   - block: research-areas
+    id: team
     content:
       title: Meet Our Team
     design:
@@ -114,7 +112,6 @@ sections:
         margin: [0, 0, 0, 0]
     
   - block: resume-biography-3
-    id: team
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: antonov
@@ -127,7 +124,7 @@ sections:
       button:
         text: Detailed CV
         url: /antonov
-        icon: hero/arrow-right
+        icon: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -266,7 +263,7 @@ sections:
     id: teaching
     content:
       title: Recent Teaching Activities
-      subtitle: Courses offered by our lab
+      subtitle: Courses Offered by Our Lab
       items:
         - name: "Organic Chemistry: Seminar to the Lab Course" 
           description: Bachelor (in German), Regensburg University, since 2025
@@ -330,8 +327,8 @@ sections:
           - Universitätsstr. 31
           - 93053 Regensburg
           - Germany
-      office_hours:
-        - "Monday - Friday: 8:00 AM - 4:00 PM"
+       #office_hours:
+         #- "Monday - Friday: 8:00 AM - 4:00 PM"
         #- "Lab Meetings: Fridays 2:00 PM"
       email: alexander.antonov@ur.de
       #phone: "+1 (555) 123-4567"
@@ -343,11 +340,11 @@ sections:
         - icon: brands/bluesky
           url: https://bsky.app/profile/alexanderantonov.bsky.social
 
-      prospective:
-        title: Prospective Members
-        text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
-        button:
-          text: View Open Positions
+       #prospective:
+         #title: Prospective Members
+         #text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
+         #button:
+           #text: View Open Positions
            #url: /opportunities
       #map_url: https://maps.google.com/?q=University+of+Excellence
       show_form: false
