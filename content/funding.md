@@ -7,14 +7,11 @@ design:
     padding: ["3rem", "0", "3rem", "0"]
 
 sections:
-  # ==============================
-  # Funding as Principal Investigator
-  # ==============================
   - block: markdown
     content:
       title: Research Funding
-      subtitle: Funding as Principal Investigator
       text: |
+        ## Funding as Principal Investigator
 
         💰 **Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles**  
         Russian Science Foundation, № 21-73-10040  
@@ -40,13 +37,10 @@ sections:
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
 
-  # ==============================
-  # Funding as Collaboration Partner
-  # ==============================
   - block: markdown
     content:
-      subtitle: Funding as Collaboration Partner
       text: |
+        ## Funding as Collaboration Partner
 
         💰 **Non-covalent interactions with charge relay**  
         Russian Science Foundation, № 23-13-00095  
