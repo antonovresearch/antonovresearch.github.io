@@ -12,7 +12,6 @@ sections:
   - block: resume-biography
     content:
       username: "antonov"
-      text: "This is sample text content for the section."
     design:
       background:
         gradient_mesh:
@@ -23,7 +22,7 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
+        size: lg # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
       avatar:
