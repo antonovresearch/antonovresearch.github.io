@@ -50,4 +50,23 @@ sections:
     content:
       title: Languages
       username: antonov
+
+  - block: cta-button-list
+    content:
+      title: ""
+      buttons:
+        - text: "Publications"
+          url: "/publication"
+          icon: "document-text"
+        - text: "Funding"
+          url: "/#Funding"
+          icon: "currency-euro"
+        - text: "Teaching"
+          url: "/teaching"
+          icon: "book-open"
+    design:
+      columns: "3"
+      background:
+        color: "green"
+---
 ---
