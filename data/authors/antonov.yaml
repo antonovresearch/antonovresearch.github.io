@@ -36,8 +36,10 @@ links:
 
 interests:
   - Organometallic Chemistry
+  - Heterocyclic Chemistry
   - Non-covalent Interactions
   - Synthesis
+  - Catalysis
 
 education:
   - degree: PhD in Organic Chemistry 
@@ -57,22 +59,41 @@ education:
     end: 2009
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Researcher
+    org: Regensburg University
+    start: 2023-05-01
+    #summary: |
+      #Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+    #button:
+      #text: View portfolio
+      #url: /
+      #icon: hero/arrow-down-tray
+  - role: Invited lecturer
+    org: Ludwig-Maximilians-Universität München
+    start: 2024-04-01
+    end: 2025-07-31
+    #summary: |
+      #Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Associate professor
+    org: Saint Petersburg University
+    start: 2019-09-01
+    end: 2023-02-28
 
+  - role: Senior Researcher
+    org: Saint Petersburg University
+    start: 2018-04-01
+    end: 2019-08-31
+
+  - role: Senior Researcher
+    org: Southern Federal University
+    start: 2016-01-01
+    end: 2018-03-31
+
+  - role: Assistant professor
+    org: Southern Federal University
+    start: 2012-09-01
+    end: 2015-12-31
+    
 skills:
   - name: Technical Skills
     items:
@@ -92,10 +113,13 @@ skills:
         level: 4
 
 languages:
+  - name: Russian
+    level: 5
+    label: Native  
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
+    label: Fluent
+  - name: German
     level: 4
     label: Fluent
 
