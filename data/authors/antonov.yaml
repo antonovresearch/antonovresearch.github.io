@@ -12,8 +12,8 @@ name:
   pronouns: he/him
 postnominals:
   - PhD
-status:
-  icon: "☕️"
+#status:
+  #icon: "☕️"
 role: Group Leader
 
 affiliations:
@@ -38,8 +38,6 @@ interests:
   - Organometallic Chemistry
   - Heterocyclic Chemistry
   - Non-covalent Interactions
-  - Synthesis
-  - Catalysis
 
 education:
   - degree: PhD in Organic Chemistry 
@@ -92,11 +90,6 @@ experience:
     org: Southern Federal University
     start: 2012-09-01
     end: 2015-12-31
-    
-button:
-  text: View portfolio
-  url: /
-  icon: hero/arrow-down-tray
       
 institutional_responsibilities:
   - role: Scientific supervisor of the Bachelor education program “Chemistry”
