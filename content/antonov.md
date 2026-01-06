@@ -5,9 +5,6 @@ type: landing
 design:
   spacing: '5rem'
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-biography
     content:
@@ -16,15 +13,8 @@ sections:
       background:
         gradient_mesh:
           enable: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1"
-
-      # Name heading sizing to accommodate long or short names
       name:
         size: lg # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle
@@ -32,18 +22,22 @@ sections:
   - block: resume-experience
     content:
       username: antonov
-      title: "Academic Experience"
-      items:
-        - title: "Test"
-          company: "Test"
-          location: "Test"
-          date_start: "2020-01-01"
-          date_end: ""    
     design:
       date_format: 'January 2006'
-      is_education_first: true 
+      is_education_first: true
+    
+  - block: resume-experience
+    content:
+      title: "Academic Experience"
+      items:
+        title: "Test"
+        company: "Test"
+        location: "Test"
+        date_start: "2020-01-01"
+        date_end: ""
+    design:
+      columns: "1"
 
-  # ----------------- INSTITUTIONAL RESPONSIBILITIES -----------------
   - block: markdown
     content:
       title: "Institutional Responsibilities"
@@ -73,7 +67,6 @@ sections:
         padding: ["1rem", "0", "1rem", "0"]
       text_align: left
 
-  # ----------------- LANGUAGES -----------------
   - block: resume-languages
     content:
       title: Languages
@@ -82,7 +75,6 @@ sections:
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
 
-  # ----------------- TEACHING & FUNDING BUTTONS -----------------
   - block: cta-button-list
     content:
       title: ""
