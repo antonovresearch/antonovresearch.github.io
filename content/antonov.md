@@ -49,7 +49,7 @@ sections:
       date_format: "January 2006"
 
   # =========================
-  # Teaching & Funding links
+  # Teaching & Funding buttons
   # =========================
   - block: collection
     content:
