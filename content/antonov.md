@@ -1,60 +1,95 @@
 ---
-title: 'Group Leader'
-date: 2023-10-24
+title: "Dr. Alexander Antonov"
 type: landing
+---
 
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
+  # =========================
+  # Biography
+  # =========================
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: antonov
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Detailed CV
-        url: /antonov
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: ""
+        education: ""
+        interests: ""
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: medium
         shape: square
+
+  # =========================
+  # Research Experience
+  # =========================
   - block: resume-experience
     content:
+      title: Experience
       username: antonov
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
+      date_format: "January 2006"
       is_education_first: false
-  - block: resume-skills
+
+  # =========================
+  # Institutional Responsibilities
+  # =========================
+  - block: resume-experience
     content:
-      title: Skills & Hobbies
+      title: Institutional Responsibilities
+      field: institutional_responsibilities
       username: antonov
+    design:
+      date_format: "January 2006"
+
+  # =========================
+  # Teaching & Funding buttons
+  # =========================
+  - block: cta-image-paragraph
+    content:
+      title: ""
+      text: ""
+      items:
+        - title: Teaching
+          text: ""
+          button:
+            text: Teaching
+            url: https://antonovlab.org/#teaching
+        - title: Funding
+          text: ""
+          button:
+            text: Funding
+            url: https://antonovlab.org/#funding
+    design:
+      columns: "2"
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: ["0", "0", "0", "0"]
+
+  # =========================
+  # Education
+  # =========================
+  - block: resume-education
+    content:
+      title: Education
+      username: antonov
+
+  # =========================
+  # Awards
+  # =========================
   - block: resume-awards
     content:
       title: Awards
       username: antonov
+
+  # =========================
+  # Languages
+  # =========================
   - block: resume-languages
     content:
       title: Languages
       username: antonov
----
