@@ -37,7 +37,7 @@ sections:
       text: |
         Interested candidates should send their application materials to Dr. Alexander Antonov 
         
-        Please use "Application: [Position Type]" in the subject line. We review applications on a rolling basis and will contact qualified candidates for interviews.
+        We review applications on a rolling basis and will contact qualified candidates for interviews.
         
         Our lab is committed to diversity and inclusion. We encourage applications from underrepresented groups in STEM.
       button:
