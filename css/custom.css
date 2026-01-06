@@ -2,3 +2,8 @@
   width: 8rem;
   height: 8rem;
 }
+
+/* Left-align all Markdown blocks */
+.hb-markdown {
+  text-align: left !important;
+}
