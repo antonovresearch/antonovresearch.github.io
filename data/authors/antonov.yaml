@@ -138,31 +138,31 @@ languages:
 awards:
   - title: Scientific supervisor of the Bachelor education program “Chemistry”
     awarder: Saint Petersburg University
-    date: " "
+    date: "1900-01-01"
     summary: Septembe 2021 - February 2023
     icon: hero/building-library
     
   - title: Vice Chair of the department of Physical Organic Chemistry
     awarder: Saint Petersburg University
-    date: " "
+    date: "1900-01-01"
     summary: September 2021 - February 2023
     icon: hero/building-library
     
   - title: Member of the Academic Senate of the Faculty of Chemistry
     awarder: Southern Federal University
-    date: " "
+    date: "1900-01-01"
     summary: February 2017 - April 2018
     icon: hero/building-library
     
   - title: Chairman of the Young Researchers Council of the Faculty of Chemistry
     awarder: Southern Federal University
-    date: " "
+    date: "1900-01-01"
     summary: January 2017 - April 2018
     icon: hero/building-library
 
   - title: Dean for Research of the Faculty of Chemistry
     awarder: Southern Federal University
-    date: " "
+    date: "1900-01-01"
     summary: June 2015 - November 2016
     icon: hero/building-library
     
