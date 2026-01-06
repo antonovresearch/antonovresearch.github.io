@@ -47,6 +47,22 @@ sections:
     content:
       title: Languages
       username: antonov
+    
+  - block: markdown
+    content:
+      title: "Institutional Responsibilities"
+      text: |
+        - 🏛 **Scientific supervisor of the Bachelor education program “Chemistry”**  
+          Saint Petersburg University  
+          Sep 2021 – Feb 2023
+
+        - 🏛 **Vice Chair of the Department of Physical Organic Chemistry**  
+          Saint Petersburg University  
+          Sep 2021 – Feb 2023
+
+        - 🏛 **Member of the Academic Senate of the Faculty of Chemistry**  
+          Southern Federal University  
+          Feb 2017 – Apr 2018
 
   - block: cta-button-list
     content:
