@@ -1,11 +1,9 @@
-module github.com/HugoBlox/kit/templates/research-lab
+module github.com/antonovresearch/antonovresearch.github.io
 
 go 1.19
 
 require (
-    github.com/HugoBlox/kit/modules/blox v0.11.0
-    github.com/HugoBlox/kit/modules/integrations/netlify v1.2.1
-    github.com/HugoBlox/kit/modules/slides v1.2.5
+    github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260102210655-66cba27dc652
+    github.com/HugoBlox/kit/modules/blox v0.0.0-20260106201334-85307a809791
+    github.com/HugoBlox/kit/modules/slides v0.0.0-20260106201226-bfdcb6603c34
 )
-
-require github.com/HugoBlox/kit v4.8.0+incompatible // indirect
