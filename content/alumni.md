@@ -8,7 +8,10 @@ sections:
     content:
       title: Alumni
       subtitle: Where our graduates go next
-      user_groups: Alumni  # only the string
+      user_groups:
+        - name: Alumni
+          sort_by: graduation_year
+          sort_ascending: false
       sort_by: graduation_year
       sort_ascending: false
     design:
