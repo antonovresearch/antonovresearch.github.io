@@ -1,4 +1,6 @@
 ---
+title: "Dummy Publication"
 authors:
-- kruglov
+  - kruglov
+draft: true
 ---
