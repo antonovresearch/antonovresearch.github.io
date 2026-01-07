@@ -51,7 +51,7 @@ hugoblox:
         background: ""
         foreground: ""
       footer:
-        background: ""
+        background: "[#0B211B]"
         foreground: ""
 
   # ────────────────────────────────────────────────────────────────────────────
