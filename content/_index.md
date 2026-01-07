@@ -67,7 +67,7 @@ sections:
     design:
       layout: cards
       # Section background color (CSS class)
-      css_class: " "
+      css_class: "[#0B211B]"
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 
