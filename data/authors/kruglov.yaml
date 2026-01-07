@@ -3,7 +3,7 @@ slug: kruglov
 name_short: M. L. Kruglov
 name:
   display: Maxim Kruglov
-role: PhD Student
+role: Bachelor Student
 
 affiliations:
   - name: Saint Petersburg University
@@ -17,4 +17,4 @@ links:
 highlight_name: false
 website: ""
 user_groups:
-  - Undergraduate Students
+  - PhD Students
