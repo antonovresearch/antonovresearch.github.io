@@ -20,5 +20,4 @@ sections:
       max_columns: 3
       show_social: true
       show_empty_groups: false
-    
 ---
