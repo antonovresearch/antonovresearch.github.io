@@ -23,11 +23,4 @@ sections:
       max_columns: 3                # 3-wide tends to read best for bios/photos
       show_social: true             # keep if you capture LinkedIn/Google Scholar
       show_empty_groups: false      # hide the section if empty
-
-    design:
-      show_role: true
-      show_organizations: true
-      show_social: true
-      spacing:
-        padding: ["5rem", 0, "5rem", 0]
 ---
