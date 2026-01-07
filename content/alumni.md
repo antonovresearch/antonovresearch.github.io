@@ -11,7 +11,7 @@ sections:
       user_groups:
         - name: Alumni
           sort_by: graduation_year
-          sort_ascending: false
+          sort_ascending: true
     design:
       show_role: true               # show role if present; falls back to affiliation
       show_organizations: true      # keeps first affiliation visible
