@@ -1,3 +1,5 @@
+github.com/HugoBlox/kit v4.8.0+incompatible h1:fK5W7k91sfBUiGrjPYtt9VadTBO0rU77wPfolrWUHWk=
+github.com/HugoBlox/kit v4.8.0+incompatible/go.mod h1:GeI91177XFVjzrNHPzP9VsG11uvlNFihRB4pNWCWYec=
 github.com/HugoBlox/kit/modules/blox v0.11.0 h1:CktTx80szMNpMV9qWAjKWu7AVPiyrAIDrJwVniM2Q2g=
 github.com/HugoBlox/kit/modules/blox v0.11.0/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
 github.com/HugoBlox/kit/modules/integrations/netlify v1.2.1 h1:0UKGUqNZWQkTPXHWV349tfsdzdGyIWtS33AzWQnBIvQ=
