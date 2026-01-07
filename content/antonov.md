@@ -68,7 +68,7 @@ sections:
       title: ""
       buttons:
         - text: "Publications"
-          url: "/publication"
+          url: "/publications"
           icon: "document-text"
         - text: "Funding"
           url: "/#funding"
