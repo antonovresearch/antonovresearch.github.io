@@ -1,4 +1,8 @@
 ---
+title: Alumni
+type: landing
+
+sections:
 - block: team-showcase
   content:
     title: Alumni
