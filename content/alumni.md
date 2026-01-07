@@ -1,5 +1,3 @@
-Full alumni.md example:
-
 ---
 title: Alumni
 type: landing
