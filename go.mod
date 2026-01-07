@@ -7,3 +7,5 @@ require (
 	github.com/HugoBlox/kit/modules/integrations/netlify v1.2.1
 	github.com/HugoBlox/kit/modules/slides v1.2.5
 )
+
+require github.com/HugoBlox/kit v4.8.0+incompatible // indirect
