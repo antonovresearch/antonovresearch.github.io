@@ -48,7 +48,7 @@ hugoblox:
       background: "[#0B211B]"
       foreground: "[#0B211B]"
       header:
-        background: ""
+        background: "[#0B211B]"
         foreground: ""
       footer:
         background: "[#0B211B]"
