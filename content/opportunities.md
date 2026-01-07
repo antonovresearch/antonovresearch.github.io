@@ -37,7 +37,7 @@ sections:
     content:
       title: How to Apply
       text: |
-        Interested candidates should send their application materials to Dr. Alexander Antonov 
+        Interested candidates should send their application materials to Dr. Alexander Antonov. 
         
         We review applications on a rolling basis and will contact qualified candidates for interviews.
         
