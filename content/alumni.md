@@ -8,11 +8,8 @@ sections:
     content:
       title: Alumni
       subtitle: Where our graduates go next
-      user_groups:
-        - name: Alumni
-          sort_by: graduation_year
-          sort_ascending: false   # newest graduates first
-      sort_by: graduation_year      # global fallback
+      user_groups: ["Alumni"]
+      sort_by: graduation_year
       sort_ascending: false
     design:
       show_role: true
