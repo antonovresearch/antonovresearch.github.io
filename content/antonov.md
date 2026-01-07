@@ -26,18 +26,6 @@ sections:
       date_format: 'January 2006'
       is_education_first: true
     
-  - block: resume-experience
-    content:
-      title: "Academic Experience"
-      items:
-        title: "Test"
-        company: "Test"
-        location: "Test"
-        date_start: "2020-01-01"
-        date_end: ""
-    design:
-      columns: "1"
-
   - block: markdown
     content:
       title: "Institutional Responsibilities"
