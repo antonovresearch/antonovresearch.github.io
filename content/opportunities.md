@@ -1,8 +1,6 @@
 ---
 title: Join Our Team
 type: landing
-authors:
-- kruglov
   
 sections:
   - block: markdown
