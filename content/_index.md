@@ -195,7 +195,7 @@ sections:
         - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles"
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021
           status: finished
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#00A63E] to-indigo-[#0E3921]
           icon: custom/rfbr
     
         - name: The development of novel BINOL based organocatalysts
