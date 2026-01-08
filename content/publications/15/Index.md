@@ -3,7 +3,7 @@ number: 15
 title: "How strong is hydrogen bonding to the amide nitrogen?"
 authors:
 - Mikshiev
-- A. F. Pozharskii
+- Pozharskii
 - A. Filarowski
 - A. S. Novikov
 - antonov
