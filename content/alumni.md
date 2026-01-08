@@ -1,7 +1,10 @@
 ---
 title: Alumni
 type: landing
-
+design:
+  spacing:
+    padding: ["3rem", "0", "3rem", "0"]
+    
 sections:
   - block: team-showcase
     content:
