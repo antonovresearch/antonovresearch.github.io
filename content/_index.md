@@ -328,7 +328,7 @@ sections:
     id: contact
     content:
       title: Contact Us
-      subtitle: Get in touch with our research team
+      subtitle: Get in Touch With Our Research Team
       visit_title: Visit Our Lab
       connect_title: Connect With Us
       address:
