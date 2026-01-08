@@ -7,7 +7,7 @@ authors:
 - O. P. Demidov
 - antonov
 - Tupikina
-- A. F. Pozharskii 
+- Pozharskii 
 author_notes:
 - ""
 - ""
