@@ -4,7 +4,7 @@ title: "Ortho-ketimines of 1,8-bis(dimethylamino)naphthalene: Synthesis, hydroly
 authors:
 - antonov
 - Mikshiev
-- A. F. Pozharskii
+- Pozharskii
 - V. A. Ozeryanskii
 
 author_notes:
