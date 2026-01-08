@@ -97,4 +97,28 @@ sections:
       columns: "3"
       spacing:
         padding: ["1rem", "0", "1rem", "0"]
+
+  - block: "team-showcase"
+    id: heroes
+    content:
+      title: "My Heroes"
+      user_groups:
+        - name: heroes
+          sort_by: graduation_year
+          sort_ascending: true
+      sort_by: graduation_year      # global fallback
+      sort_ascending: true
+    
+    design:
+      show_role: true               # show role if present; falls back to affiliation
+      show_organizations: false     # keeps first affiliation visible
+      show_interests: false         # typically skip on alumni grids; set true if concise
+      max_interests: 0              # hide interests even if provided
+      align: left                   # more editorial feel; use center if preferred
+      max_columns: 2                # 3-wide tends to read best for bios/photos
+      show_social: true             # keep if you capture LinkedIn/Google Scholar
+      show_empty_groups: false      # hide the section if empty
+      css_class: " "
+      spacing:
+        padding: ["5rem", 0, "5rem", 0]
 ---
