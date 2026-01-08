@@ -4,7 +4,7 @@ title: "Flipping the Metalation of 4-Dimethylaminopyridine: Steric Repulsion ver
 authors:
 - Verkhov
 - A. N. Gubanova
-- D. I. Tonkoglazova
+- Tonkoglazova
 - Tupikina 
 - antonov
 author_notes:
