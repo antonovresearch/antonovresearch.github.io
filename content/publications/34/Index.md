@@ -6,7 +6,7 @@ authors:
 - Meshalkin
 - Tonkoglazova
 - Bardakov
-- A. F. Pozharskii
+- Pozharskii
 - antonov
 author_notes:
 - ""
