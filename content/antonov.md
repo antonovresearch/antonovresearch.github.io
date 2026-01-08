@@ -111,7 +111,7 @@ sections:
     
     design:
       show_role: true               # show role if present; falls back to affiliation
-      show_organizations: false     # keeps first affiliation visible
+      show_organizations: true      # keeps first affiliation visible
       show_interests: false         # typically skip on alumni grids; set true if concise
       max_interests: 0              # hide interests even if provided
       align: left                   # more editorial feel; use center if preferred
