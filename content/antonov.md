@@ -104,10 +104,6 @@ sections:
       title: "My Heroes"
       user_groups:
         - name: heroes
-          sort_by: graduation_year
-          sort_ascending: true
-      sort_by: graduation_year      # global fallback
-      sort_ascending: true
     
     design:
       show_role: true               # show role if present; falls back to affiliation
