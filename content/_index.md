@@ -307,7 +307,7 @@ sections:
       user_groups:
         - name: Partners
           sort_by: graduation_year
-          sort_ascending: false
+          sort_ascending: true
       sort_by: graduation_year      # global fallback
       sort_ascending: true
     
