@@ -6,7 +6,7 @@ authors:
 - A. Jezierska
 - J. J. Panek
 - E. A. Goremychkin
-- A. F. Pozharskii
+- Pozharskii
 - antonov
 - Tolstoy
 - A. Filarowski
