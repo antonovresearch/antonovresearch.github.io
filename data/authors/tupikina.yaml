@@ -1,6 +1,7 @@
 schema: hugoblox/author/v1
 slug: tupikina
 name_short: E. Yu. Tupikina
+graduation_year: 0003
 name:
   display: Prof. Elena Tupikina
 
@@ -16,4 +17,4 @@ links:
 highlight_name: false
 website: ""
 user_groups:
-  - " "
+  - "Partners"
