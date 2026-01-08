@@ -1,6 +1,7 @@
 schema: hugoblox/author/v1
 slug: zipse
 name_short: H. Zipse
+graduation_year: 0004
 name:
   display: Prof. Hendrik Zipse
 
@@ -16,4 +17,4 @@ links:
 highlight_name: false
 website: ""
 user_groups:
-  - " "
+  - "Partners"
