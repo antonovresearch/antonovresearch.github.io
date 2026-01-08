@@ -2,7 +2,7 @@
 number: 7
 title: "10-Dimethylamino derivatives of benzo[h]quinoline and benzo[h]quinazolines: fluorescent proton sponge analogues with opposed peri-NMe2/–N= groups. How to distinguish between proton sponges and pseudo-proton sponges"
 authors:
-- A. F. Pozharskii
+- Pozharskii
 - V. A. Ozeryanskii
 - V. Y. Mikshiev
 - antonov
