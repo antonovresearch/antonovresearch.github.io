@@ -1,6 +1,7 @@
 schema: hugoblox/author/v1
 slug: tolstoy
 name_short: P. M. Tolstoy
+graduation_year: 0002
 name:
   display: Prof. Peter Tolstoy
 
@@ -16,4 +17,4 @@ links:
 highlight_name: false
 website: ""
 user_groups:
-  - " "
+  - "Partners"
