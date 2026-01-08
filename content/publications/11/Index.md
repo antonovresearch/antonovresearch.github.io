@@ -2,7 +2,7 @@
 number: 11
 title: "Proton-induced fluorescence in modified quino[7,8-h]quinolines: dual sensing for protons and π-donors"
 authors:
-- A. F. Pozharskii
+- Pozharskii
 - V. A. Ozeryanskii
 - V. Y. Mikshiev
 - A. V. Chernyshev
