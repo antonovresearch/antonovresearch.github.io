@@ -3,7 +3,7 @@ number: 10
 title: "1,8-Bis(dimethylamino)naphthyl-2-ketimines: Inside vs outside protonation"
 authors:
 - antonov
-- A. F. Pozharskii
+- Pozharskii
 - Tolstoy
 - A. Filarowski
 - O. V. Khoroshilova 
