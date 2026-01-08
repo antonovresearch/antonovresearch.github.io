@@ -88,10 +88,10 @@ sections:
           url: "/publications"
           icon: "document-text"
         - text: "Funding"
-          url: "/#funding"
+          url: "/funding"
           icon: "currency-euro"
         - text: "Teaching"
-          url: "/#teaching"
+          url: "/teaching"
           icon: "book-open"
     design:
       columns: "3"
