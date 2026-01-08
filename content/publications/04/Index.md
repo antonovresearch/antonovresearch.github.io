@@ -4,7 +4,7 @@ title: "Base-promoted transformation of 2-C(O)R-1,8-bis(dimethylamino)naphthalen
 authors:
 - Kachalkina
 - G. S. Borodkin
-- A. F. Pozharskii
+- Pozharskii
 - antonov
 - I. G. Borodkina
 - Y. F. Maltsev
