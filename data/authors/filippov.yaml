@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: filippov
+name_short: S. E. Filippov
+name:
+  display: Dr. Sergey Filippov
+role: ""
+bio: Dr. Sergey Filippov was my chemistry teacher in school. His excellent teaching approach and personality ignited my interest in chemistry as field of study and inspired my teaching concept. 
+affiliations:
+  - name: School № 5, Rostov-on-Don
+
+highlight_name: false
+website: ""
+user_groups:
+  - Heroes
