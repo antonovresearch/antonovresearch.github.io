@@ -4,7 +4,7 @@ title: "Reaction of 2-Trifluoroacetyl-1,8-Bis(dimethylamino)naphthalene with Str
 authors:
 - antonov
 - Kachalkina
-- A. F. Pozharskii
+- Pozharskii
 - G. S. Borodkin
 - A. Filarowski 
 
