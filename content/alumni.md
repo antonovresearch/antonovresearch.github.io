@@ -7,6 +7,7 @@ design:
     
 sections:
   - block: team-showcase
+    title: Alumni
     content:
       user_groups:
         - name: Alumni
