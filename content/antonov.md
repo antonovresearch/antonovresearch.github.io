@@ -103,7 +103,7 @@ sections:
     content:
       title: "My Heroes"
       user_groups:
-        - name: heroes
+        - name: Heroes
     
     design:
       show_role: true               # show role if present; falls back to affiliation
