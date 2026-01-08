@@ -189,40 +189,40 @@ sections:
         - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
           description: Russian Science Foundation, № 21-73-10040, 2021-2024
           status: finished
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/rsf
 
         - name: "Sterically assisted activation of dialkylamino group in the synthesis of fused nitrogen heterocycles"
           description: Russian Foundation for Basic Research, № 20-33-70205, 2019-2021
           status: finished
-          gradient: from-[#00A63E] to-indigo-[#0E3921]
+          gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/rfbr
     
         - name: The development of novel BINOL based organocatalysts
           description: Deutscher Akademischer Austauschdienst, 2020. Three month research stay in the group of Prof. Ruth Gschwind (Regensburg University)
           status: finished
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/daad    
 
 
         - name: Superbasic non-nucleophilic polymeric materials based on proton sponges
           description: Russian Science Foundation, № 18-73-00020, 2018-2020
           status: finished
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/rsf
 
 
         - name: Organometallic derivatives of 1,8-bis(dimethylamino)naphthalene
           description: Russian Foundation for Basic Research, № 16-33-60030, 2016-2018
           status: finished
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/rfbr
 
 
         - name: "Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles"
           description: Russian Foundation for Basic Research, № 12-03-31172, 2016-2018
           status: finished
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/rfbr
       cta:
         text: See All Funding
@@ -275,19 +275,19 @@ sections:
           description: Bachelor (in German), Regensburg University, since 2025
           status: active
           icon: hero/book-open
-          gradient: from-yellow-400 to-yellow-600
+          gradient: from-[#00A63E] to-[#0E3921]
     
         - name: "Modern Organometallic Synthesis: Lecture" 
           description: Master (In English), Regensburg University, since 2025
           status: inactive
           icon: hero/book-open
-          gradient: from-yellow-400 to-yellow-600
+          gradient: from-[#00A63E] to-[#0E3921]
 
         - name: "New Synthetic Methods in Organic Chemistry: Lecture" 
           description: Master (In English), Ludwig-Maximilians-Universität München, 2024 - 2025
           status: inactive
           icon: hero/book-open
-          gradient: from-yellow-400 to-yellow-600
+          gradient: from-[#00A63E] to-[#0E3921]
       cta:
         text: See All Teaching Activities
         url: /teaching
