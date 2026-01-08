@@ -87,6 +87,11 @@ experience:
     start: 2012-09-01
     end: 2015-12-31        
     
+  - role: Laboratory Technician
+    org: School № 5, Rostov-on-Don
+    start: 2008-09-01
+    end: 2015-06-30         
+    
 languages:
   - name: Russian
     level: 5
