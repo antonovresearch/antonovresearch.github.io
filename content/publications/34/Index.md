@@ -4,7 +4,7 @@ title: "A Precise Synthetic Toolbox: H-Bond-Assisted Quadruple Reactivity of o-D
 authors:
 - Tsybulin
 - Meshalkin
-- D. I. Tonkoglazova
+- Tonkoglazova
 - Bardakov
 - A. F. Pozharskii
 - antonov
