@@ -5,7 +5,6 @@ type: landing
 sections:
   - block: team-showcase
     content:
-      title: Alumni
       user_groups:
         - name: Alumni
           sort_by: graduation_year
