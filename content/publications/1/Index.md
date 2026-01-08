@@ -6,7 +6,7 @@ authors:
 - antonov
 - O. V. Dyablo
 - V. A. Ozeryanskii
-- A. F. Pozharskii 
+- Pozharskii 
 author_notes:
 - ""
 - ""
