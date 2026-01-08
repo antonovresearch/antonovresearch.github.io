@@ -90,7 +90,7 @@ sections:
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
           icon: custom/icon_P
-          gradient: from-[#311204] to-[#A42900]
+          gradient: from-[#A42900] to-[#311204]
 
     design:
       layout: cards
