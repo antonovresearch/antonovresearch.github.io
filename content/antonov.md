@@ -28,23 +28,18 @@ sections:
 
   - block: resume-experience
     content:
-      title: "Experience"
+      title: "Institutional Responsibilities"
       items:
         - title: "Senior Developer"
-          company: "Tech Company"
-          location: "San Francisco, CA"
-          date_start: "2020-01-01"
-          date_end: ""
-          description: |
-            * Led development of key features
-            * Mentored junior developers
-            * Improved system performance by 40%
-        - title: "Software Engineer"
-          company: "Startup Inc"
+          company: "Saint Petersburg University"
+          date_start: "2020-09-01"
+          date_end: "2023-02-01"
+
+        - title: "Vice Chair of the Department of Physical Organic Chemistry"
+          company: "Saint Petersburg University  "
           location: "New York, NY"
-          date_start: "2018-06-01"
-          date_end: "2019-12-31"
-          description: "Developed web applications using modern technologies"
+          date_start: "2021-09-01"
+          date_end: "2023-02-01"
     design:
       columns: "1"
     
