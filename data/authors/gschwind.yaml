@@ -1,6 +1,7 @@
 schema: hugoblox/author/v1
 slug: gschwind
 name_short: R. M. Gschwind
+graduation_year: 0001
 name:
   display: Prof. Ruth Gschwind
 
@@ -16,4 +17,4 @@ links:
 highlight_name: false
 website: ""
 user_groups:
-  - " "
+  - "Partners"
