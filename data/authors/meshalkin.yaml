@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: meshalkin
+name_short: S. A. Meshalkin
+name:
+  display: Stepan Meshalkin
+role: BS in Chemistry, 2025
+graduation_year: 2025
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0002-5384-0703
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
