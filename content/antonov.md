@@ -111,7 +111,7 @@ sections:
       show_interests: false         # typically skip on alumni grids; set true if concise
       max_interests: 0              # hide interests even if provided
       align: left                   # more editorial feel; use center if preferred
-      max_columns: 2                # 3-wide tends to read best for bios/photos
+      max_columns: 4                # 3-wide tends to read best for bios/photos
       show_social: true             # keep if you capture LinkedIn/Google Scholar
       show_empty_groups: false      # hide the section if empty
       css_class: " "
