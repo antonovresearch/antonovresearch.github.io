@@ -1,0 +1,17 @@
+schema: hugoblox/author/v1
+slug: Pozharskii
+name_short: A. F. Pozharskii
+name:
+  display: Prof. Alexander Pozharskii
+role: 1938-2025
+bio: Prof. Pozharskii was not only my PhD supervisor, but he was a beacon in the scientific world for me. He taught me how to properly plan an experiment, how to write research papers, how to supervise students, how to make grant applications, and how to give lectures. I am who I am today thanks to Prof. Pozharskii and his contribution to me.
+affiliations:
+  - name: Southern Federal University
+
+links:
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0003-3612-1392
+highlight_name: false
+website: ""
+user_groups:
+  - Heroes
