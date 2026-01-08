@@ -4,7 +4,7 @@ title: "Laying the way to meta-functionalization of naphthalene proton sponge vi
 authors:
 - antonov
 - Bardakov
-- A. F. Pozharskii
+- Pozharskii
 - M. A. Vovk
 - A. D. Misharev 
 
