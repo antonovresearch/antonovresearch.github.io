@@ -7,8 +7,8 @@ design:
     
 sections:
   - block: team-showcase
-    title: Alumni
     content:
+      title: Alumni
       user_groups:
         - name: Alumni
           sort_by: graduation_year
