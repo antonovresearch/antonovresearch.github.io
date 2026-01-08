@@ -4,7 +4,7 @@ title: "Tandem synthesis of 10- dimethylaminobenzo[h]quinazolines from 2-ketimin
 authors:
 - Mikshiev
 - antonov
-- A. F. Pozharskii 
+- Pozharskii 
 
 author_notes:
 - ""
