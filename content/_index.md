@@ -85,12 +85,12 @@ sections:
         - name: Heterocyclic chemistry
           description: Non-covalent interactions in synthesis and functionalisation of heterocyclic compounds
           icon: custom/icon_N
-          gradient: from-blue-400 to-indigo-600
+          gradient: from-[#0039A6] to-[#0E1A39]
 
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
           icon: custom/icon_P
-          gradient: from-purple-400 to-pink-600
+          gradient: from-[#A66D00] to-[#392D0E]
 
     design:
       layout: cards
