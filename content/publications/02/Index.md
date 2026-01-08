@@ -3,7 +3,7 @@ number: 2
 title: "Out-Basicity of 1,8-bis(dimethylamino)naphthalene: The experimental and theoretical challenge"
 authors:
 - V. A. Ozeryanskii
-- A. F. Pozharskii
+- Pozharskii
 - antonov
 - A. Filarowski 
 
