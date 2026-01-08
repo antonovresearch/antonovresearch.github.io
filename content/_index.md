@@ -80,7 +80,7 @@ sections:
         - name: Organolithium Chemistry
           description: Steric effects in synthesis, structure and reactivity of organolithium compounds
           icon: custom/icon_Li
-          gradient: from-green-400 to-emerald-600
+          gradient: from-[#00A63E] to-[#0E3921]
             
         - name: Heterocyclic chemistry
           description: Non-covalent interactions in synthesis and functionalisation of heterocyclic compounds
@@ -90,7 +90,7 @@ sections:
         - name: Pnictogen and boron chemistry
           description: New methods for the synthesis of organopnictogens
           icon: custom/icon_P
-          gradient: from-[#A66D00] to-[#392D0E]
+          gradient: from-[#311204] to-[#A42900]
 
     design:
       layout: cards
