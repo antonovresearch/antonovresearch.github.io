@@ -27,6 +27,7 @@ sections:
       is_education_first: true
 
   - block: resume-experience
+    id: responsibilities
     content:
       title: "Institutional Responsibilities"
       items:
