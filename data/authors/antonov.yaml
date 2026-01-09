@@ -58,31 +58,36 @@ education:
     summary: with Prof. Vladimir V. Lukov
     
 experience:
-  - role: Researcher
+  - role: Researcher, Organic Chemistry
     org: Regensburg University
     start: 2023-05-01
     
-  - role: Invited Lecturer
+  - role: Invited Lecturer, Organic Chemistry
     org: Ludwig-Maximilians-Universität München
     start: 2024-04-01
     end: 2025-07-31
-
-  - role: Associate Professor
+    
+  - role: Associate Professor for Physical Organic Chemistry
+    org: Saint Petersburg University
+    start: 2021-09-01
+    end: 2023-02-28
+    
+  - role: Associate Professor for Physical Chemistry
     org: Saint Petersburg University
     start: 2019-09-01
-    end: 2023-02-28
+    end: 2021-08-30
 
-  - role: Senior Researcher
+  - role: Senior Researcher, Physical Chemistry
     org: Saint Petersburg University
     start: 2018-04-01
     end: 2019-08-31
 
-  - role: Senior Researcher
+  - role: Senior Researcher, Organic Chemistry
     org: Southern Federal University
     start: 2016-01-01
     end: 2018-03-31
 
-  - role: Assistant Professor
+  - role: Assistant Professor for Organic Chemistry
     org: Southern Federal University
     start: 2012-09-01
     end: 2015-12-31        
