@@ -30,7 +30,7 @@ sections:
     content:
       title: "Institutional Responsibilities"
       items:
-        - title: "Senior Developer"
+        - title: "Scientific supervisor of the Bachelor education program Chemistry"
           company: "Saint Petersburg University"
           date_start: "2020-09-01"
           date_end: "2023-02-01"
