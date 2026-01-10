@@ -1,6 +1,6 @@
-github.com/HugoBlox/kit/modules/blox v0.11.1-0.20260109010421-2c2d7cd403a1 h1:LHfKNAtTxlffN4y+4Z6DPgI7XnLy22Arhd2YKmq7oi0=
-github.com/HugoBlox/kit/modules/blox v0.11.1-0.20260109010421-2c2d7cd403a1/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
-github.com/HugoBlox/kit/modules/integrations/netlify v1.2.2-0.20260109010421-2c2d7cd403a1 h1:f6JGWTx0ldZYyNyeNouWOUWfl/z+18i1aH9kpVExjME=
-github.com/HugoBlox/kit/modules/integrations/netlify v1.2.2-0.20260109010421-2c2d7cd403a1/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
-github.com/HugoBlox/kit/modules/slides v1.2.6-0.20260109010421-2c2d7cd403a1 h1:3FuzEtTBxxrxvLi/OlU3Ik6Oq3RXFHMnRSuAyrWEBfY=
-github.com/HugoBlox/kit/modules/slides v1.2.6-0.20260109010421-2c2d7cd403a1/go.mod h1:/XTQAtd2KCiwg/GVMAoSzKPf/DYPVbAAEysmBdWgYu4=
+github.com/HugoBlox/kit/modules/blox v0.11.1-0.20260110184501-96aa04356e74 h1:Z2pIwcZUhNIkjKppRiyqoMPLqmjBdYq8uYq8/p/WPb0=
+github.com/HugoBlox/kit/modules/blox v0.11.1-0.20260110184501-96aa04356e74/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
+github.com/HugoBlox/kit/modules/integrations/netlify v1.2.2-0.20260110184501-96aa04356e74 h1:P+8pL9hVcINHF+1OpU28XxgHk1drKQYK387+WteEvLo=
+github.com/HugoBlox/kit/modules/integrations/netlify v1.2.2-0.20260110184501-96aa04356e74/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
+github.com/HugoBlox/kit/modules/slides v1.2.6-0.20260110184501-96aa04356e74 h1:tO89AN0DDMCCmU/DC9FYIrdSB+21Kh+n/Mx3BXtH6sQ=
+github.com/HugoBlox/kit/modules/slides v1.2.6-0.20260110184501-96aa04356e74/go.mod h1:/XTQAtd2KCiwg/GVMAoSzKPf/DYPVbAAEysmBdWgYu4=
