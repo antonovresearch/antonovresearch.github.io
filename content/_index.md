@@ -50,19 +50,12 @@ sections:
       items:
         - statistic: "36"
           description: Publications in top-tier journals
-           #sub_metric: Nature, Science, Cell, PNAS
           icon: hero/document-text
         - statistic: "6"
           description: Brilliant team members
-           #sub_metric: From 8 countries worldwide
           icon: hero/user-group
-        #- statistic: "$5M"
-          #description: Active research funding
-           #sub_metric: NSF, NIH, DOE grants
-          #icon: hero/currency-dollar
         - statistic: "4"
           description: Active research projects
-           #sub_metric: Across 3 major domains
           icon: hero/academic-cap
     design:
       layout: cards
