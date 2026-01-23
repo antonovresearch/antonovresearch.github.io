@@ -18,7 +18,8 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle
- 
+
+  # This pulls your standard Experience/Education from data/authors/antonov.yaml
   - block: resume-experience
     content:
       username: antonov
@@ -26,52 +27,43 @@ sections:
       date_format: 'January 2006'
       is_education_first: true
 
-  - block: resume-experience
+  # NEW: Responsibilities in resume-experience style, but sourced from page front matter
+  - block: resume-responsibilities
     id: responsibilities
     content:
       title: "Institutional Responsibilities"
       items:
-        - title: "Scientific supervisor of the Bachelor education program Chemistry"
+        - title: "Scientific supervisor of the Bachelor education program “Chemistry”"
           company: "Saint Petersburg University"
-          date_start: "2020-09-01"
-          date_end: "2023-02-01"
-
-        - title: "Vice Chair of the Department of Physical Organic Chemistry"
-          company: "Saint Petersburg University  "
-          location: "New York, NY"
           date_start: "2021-09-01"
           date_end: "2023-02-01"
+          description: ""
+
+        - title: "Vice Chair of the Department of Physical Organic Chemistry"
+          company: "Saint Petersburg University"
+          date_start: "2021-09-01"
+          date_end: "2023-02-01"
+          description: ""
+
+        - title: "Member of the Academic Senate of the Faculty of Chemistry"
+          company: "Southern Federal University"
+          date_start: "2017-02-01"
+          date_end: "2018-04-01"
+          description: ""
+
+        - title: "Chairman of the Young Researchers Council"
+          company: "Southern Federal University"
+          date_start: "2017-01-01"
+          date_end: "2018-04-01"
+          description: ""
+
+        - title: "Dean for Research of the Faculty of Chemistry"
+          company: "Southern Federal University"
+          date_start: "2015-06-01"
+          date_end: "2016-11-01"
+          description: ""
     design:
       columns: "1"
-    
-  - block: markdown
-    content:
-      title: "Institutional Responsibilities"
-      text: |
-        - 🏛 **Scientific supervisor of the Bachelor education program “Chemistry”**  
-          Saint Petersburg University  
-          Sep 2021 – Feb 2023
-
-        - 🏛 **Vice Chair of the Department of Physical Organic Chemistry**  
-          Saint Petersburg University  
-          Sep 2021 – Feb 2023
-
-        - 🏛 **Member of the Academic Senate of the Faculty of Chemistry**  
-          Southern Federal University  
-          Feb 2017 – Apr 2018
-
-        - 🏛 **Chairman of the Young Researchers Council**  
-          Southern Federal University  
-          Jan 2017 – Apr 2018
-
-        - 🏛 **Dean for Research of the Faculty of Chemistry**  
-          Southern Federal University  
-          Jun 2015 – Nov 2016
-    design:
-      columns: "1"
-      spacing:
-        padding: ["1rem", "0", "1rem", "0"]
-      text_align: left
 
   - block: resume-languages
     content:
@@ -105,7 +97,7 @@ sections:
       title: "My Heroes"
       user_groups:
         - name: Heroes
-    
+
     design:
       show_role: true               # show role if present; falls back to affiliation
       show_organizations: true      # keeps first affiliation visible
