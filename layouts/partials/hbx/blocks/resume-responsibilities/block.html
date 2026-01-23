@@ -1,0 +1,165 @@
+{{/* layouts/partials/hbx/blocks/resume-responsibilities/block.html */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $content := $block.content }}
+{{ $design := $block.design }}
+
+{{/* Optional author profile fallback */}}
+{{ $profile := dict }}
+{{ with (index $content "username") }}
+  {{ $profile = site.GetPage (printf "authors/%s" .) }}
+{{ end }}
+
+{{/* Prefer manual items from page front matter */}}
+{{ $items_raw := index $content "items" }}
+{{ if not $items_raw }}
+  {{/* Fallback to author profile experience/work */}}
+  {{ if $profile }}
+    {{ $profileParams := $profile.Params }}
+    {{ $items_raw = or (index $profileParams "experience") (index $profileParams "work") }}
+  {{ end }}
+{{ end }}
+
+{{/* Nothing to show */}}
+{{ if not $items_raw }}
+  {{ return }}
+{{ end }}
+
+{{/* Section heading: use content.title if provided */}}
+{{ $heading := (index $content "title") | default (i18n "experience" | default "Experience") }}
+
+<section class="relative py-12">
+  <div class="mx-auto max-w-5xl px-4">
+
+    <h2 class="mb-10 text-3xl font-bold text-gray-900 dark:text-white text-center">
+      {{ $heading }}
+    </h2>
+
+    {{/* Normalize items into a consistent structure */}}
+    {{ $items := slice }}
+
+    {{ range $items_raw }}
+      {{ $role := "" }}
+      {{ $org := "" }}
+      {{ $location := "" }}
+      {{ $summary := "" }}
+
+      {{/* Role/title */}}
+      {{ with index . "role" }}{{ $role = strings.TrimSpace (printf "%v" .) }}{{ end }}
+      {{ if not $role }}{{ with index . "position" }}{{ $role = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+      {{ if not $role }}{{ with index . "title" }}{{ $role = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+
+      {{/* Org/company */}}
+      {{ with index . "org" }}{{ $org = strings.TrimSpace (printf "%v" .) }}{{ end }}
+      {{ if not $org }}{{ with index . "company_name" }}{{ $org = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+      {{ if not $org }}{{ with index . "company" }}{{ $org = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+
+      {{/* Location */}}
+      {{ with index . "location" }}{{ $location = strings.TrimSpace (printf "%v" .) }}{{ end }}
+
+      {{/* Summary/description (markdown allowed) */}}
+      {{ with index . "summary" }}{{ $summary = strings.TrimSpace (printf "%v" .) }}{{ end }}
+      {{ if not $summary }}{{ with index . "description" }}{{ $summary = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+
+      {{/* Dates: support start/end and date_start/date_end */}}
+      {{ $startStr := "" }}
+      {{ $endStr := "" }}
+      {{ with index . "start" }}{{ $startStr = strings.TrimSpace (printf "%v" .) }}{{ end }}
+      {{ with index . "end" }}{{ $endStr = strings.TrimSpace (printf "%v" .) }}{{ end }}
+      {{ if not $startStr }}{{ with index . "date_start" }}{{ $startStr = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+      {{ if not $endStr }}{{ with index . "date_end" }}{{ $endStr = strings.TrimSpace (printf "%v" .) }}{{ end }}{{ end }}
+
+      {{ $start := time.AsTime $startStr }}
+      {{ $end := "" }}
+      {{ if $endStr }}
+        {{ $end = time.AsTime $endStr }}
+      {{ end }}
+
+      {{/* Build display date range */}}
+      {{ $startLabel := "" }}
+      {{ $endLabel := "" }}
+
+      {{ if $start }}
+        {{ $startLabel = time.Format "Jan 2006" $start }}
+      {{ end }}
+
+      {{ if $end }}
+        {{ $endLabel = time.Format "Jan 2006" $end }}
+      {{ else }}
+        {{ $endLabel = (i18n "present" | default "Present") }}
+      {{ end }}
+
+      {{ $dateRange := "" }}
+      {{ if $startLabel }}
+        {{ $dateRange = printf "%s — %s" $startLabel $endLabel }}
+      {{ end }}
+
+      {{/* Add to normalized slice */}}
+      {{ $items = $items | append (dict
+        "role" $role
+        "org" $org
+        "location" $location
+        "summary" $summary
+        "start" $start
+        "end" $end
+        "dateRange" $dateRange
+      ) }}
+    {{ end }}
+
+    {{/* Sort by start date descending (most recent first) */}}
+    {{ $items = sort $items "start" "desc" }}
+
+    <div class="relative">
+      <div class="border-l border-gray-200 dark:border-gray-700 ml-3">
+
+        {{ range $items }}
+          <div class="relative pl-8 pb-10">
+
+            {{/* Timeline dot */}}
+            <span class="absolute left-0 top-2 -ml-[7px] h-3.5 w-3.5 rounded-full bg-gray-900 dark:bg-white"></span>
+
+            <div class="rounded-2xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 p-6 shadow-sm">
+              <div class="flex flex-col gap-1">
+
+                {{ with index . "role" }}
+                  <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
+                    {{ . }}
+                  </h3>
+                {{ end }}
+
+                {{ with index . "org" }}
+                  <p class="text-base text-gray-700 dark:text-gray-200">
+                    {{ . }}
+                  </p>
+                {{ end }}
+
+                {{ with index . "location" }}
+                  <p class="text-sm text-gray-500 dark:text-gray-400">
+                    {{ . }}
+                  </p>
+                {{ end }}
+
+                {{ with index . "dateRange" }}
+                  <p class="text-sm text-gray-500 dark:text-gray-400">
+                    {{ . }}
+                  </p>
+                {{ end }}
+
+              </div>
+
+              {{ with index . "summary" }}
+                <div class="prose prose-sm dark:prose-invert mt-4 max-w-none">
+                  {{ . | markdownify }}
+                </div>
+              {{ end }}
+            </div>
+
+          </div>
+        {{ end }}
+
+      </div>
+    </div>
+
+  </div>
+</section>
