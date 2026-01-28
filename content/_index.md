@@ -48,7 +48,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "36"
+        - statistic: "37"
           description: Publications in top-tier journals
           icon: hero/document-text
         - statistic: "6"
