@@ -45,25 +45,6 @@ sections:
         #     brightness: 0.6
         #     contrast: 1.1  
 
-  - block: stats
-    content:
-      items:
-        - statistic: "37"
-          description: Publications in top-tier journals
-          icon: hero/document-text
-        - statistic: "6"
-          description: Brilliant team members
-          icon: hero/user-group
-        - statistic: "4"
-          description: Active research projects
-          icon: hero/academic-cap
-    design:
-      layout: cards
-      # Section background color (CSS class)
-      css_class: "[#0B211B]"
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
-
   - block: research-areas
     id: research-areas
     content:
