@@ -1,6 +1,6 @@
 ---
 title: "ACOC6 in Antalya (Feb 9–11, 2026)"
-summary: "Dr. Antonov attended the 6th Anatolian Conference on Organic Chemistry (ACOC6) in Antalya, Türkiye — a great few days of talks, new ideas, and meeting old friends and making new ones."
+summary: "Dr. Antonov attended the 6th Anatolian Conference on Organic Chemistry  in Antalya, Türkiye — a great few days of talks, new ideas, and meeting old friends and making new ones."
 date: 2026-02-13
 
 # Featured image
@@ -21,11 +21,11 @@ tags:
 #   trending: true
 ---
 
-Dr. Antonov attended the **6th Anatolian Conference on Organic Chemistry (ACOC6)** in **Antalya, Türkiye**, held **February 09–11, 2026** at the **Susesi Luxury Resort** as invited speaker with a talk "H-bond Assisted Sterically Facilitated Construction of Nitrogen Heterocycles". :contentReference[oaicite:2]{index=2}
+Dr. Antonov attended the **6th Anatolian Conference on Organic Chemistry (ACOC6)** as invited speaker with a talk "H-bond Assisted Sterically Facilitated Construction of Nitrogen Heterocycles" in **Antalya, Türkiye**, held **February 09–11, 2026** at the **Susesi Luxury Resort**.
 
 
 ## Links
-- Conference website: https://anatolianorgchem.org/ :contentReference[oaicite:4]{index=4}
+- Conference website: https://anatolianorgchem.org/ 
 
 ## Photos
 ![Conference venue — Susesi Luxury Resort](photo2.jpg)
