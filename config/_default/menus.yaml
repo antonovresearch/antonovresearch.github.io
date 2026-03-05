@@ -10,21 +10,21 @@ main:
   - name: Research
     url: '/#research-areas'
     weight: 20
+  - name: News
+    url: '/#news'
+    weight: 25    
   - name: Team
     url: '/#team'
-    weight: 25
+    weight: 30
   - name: Publications
     url: '/#publications'
-    weight: 30
+    weight: 35
   - name: Funding
     url: '/#Funding'
     weight: 40
-  - name: News
-    url: '/#news'
-    weight: 45
   - name: Teaching
     url: '/#teaching'
-    weight: 50
+    weight: 45
   - name: Collaborations
     url: '/#collaborations'
     weight: 60
