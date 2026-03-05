@@ -71,16 +71,7 @@ sections:
       css_class: " "
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-
-  - block: research-areas
-    id: team
-    content:
-      title: Meet Our Team
-    design:
-      spacing:
-        padding: ["1rem", "0", "0", "0"]
-        margin: [0, 0, 0, 0]
-
+    
   - block: collection
     id: news
     content:
@@ -110,6 +101,15 @@ sections:
       css_class: " "
       columns: 1
     
+  - block: research-areas
+    id: team
+    content:
+      title: Meet Our Team
+    design:
+      spacing:
+        padding: ["1rem", "0", "0", "0"]
+        margin: [0, 0, 0, 0]
+   
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
