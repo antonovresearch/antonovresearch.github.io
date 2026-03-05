@@ -80,6 +80,35 @@ sections:
       spacing:
         padding: ["1rem", "0", "0", "0"]
         margin: [0, 0, 0, 0]
+
+  - block: collection
+    id: news
+    content:
+      title: Lab News & Updates
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: blog
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: card
+      css_class: " "
+      columns: 1
     
   - block: resume-biography-3
     content:
@@ -209,35 +238,7 @@ sections:
       css_class: " "
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-       
-  - block: collection
-    id: news
-    content:
-      title: Lab News & Updates
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      css_class: " "
-      columns: 1
+
     
   - block: research-areas
     id: teaching
