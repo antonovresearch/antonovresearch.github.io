@@ -96,9 +96,7 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
-      view: card
-      css_class: " "
+      view: card-grid
       columns: 2
     
   - block: research-areas
