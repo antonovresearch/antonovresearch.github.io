@@ -81,7 +81,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 4
       # Filter on criteria
       filters:
         author: ''
@@ -99,7 +99,7 @@ sections:
       # Choose a layout view
       view: card
       css_class: " "
-      columns: 1
+      columns: 2
     
   - block: research-areas
     id: team
