@@ -1,7 +1,7 @@
 ---
 title: "CDT 2026 in Essen (Mar 2–4, 2026)"
 summary: "Dr. Antonov attended GDCh Chemiedozententagung in Essen, Germany "
-date: 2026-03-5
+date: 2026-03-05
 
 # Featured image
 # Put an image named `featured.jpg` (or .png) in this page folder.
