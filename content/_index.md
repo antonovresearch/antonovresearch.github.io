@@ -81,7 +81,7 @@ sections:
       order: desc
     design:
       view: article-grid
-      columns: 2
+      columns: 3
     
   - block: research-areas
     id: team
