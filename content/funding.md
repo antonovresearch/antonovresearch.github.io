@@ -12,7 +12,10 @@ sections:
       title: Research Funding
       text: |
         ## Funding as Principal Investigator
-
+        💰 **Advancing Reactivity and Selectivity of Organolithiums Reagents with Non-Covalent Interactions**  
+        Deutsche Forschungsgemeinschaft, № 577098559
+        2026–2026
+    
         💰 **Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles**  
         Russian Science Foundation, № 21-73-10040  
         2021–2024
