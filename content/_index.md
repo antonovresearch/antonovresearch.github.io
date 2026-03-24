@@ -171,6 +171,12 @@ sections:
     content:
       title: Research Funding
       items:
+    
+        - name: "Advancing Reactivity and Selectivity of Organolithiums Reagents with Non-Covalent Interactions"
+          description: Deutsche Forschungsgemeinschaft, № 577098559, 2026-2029
+          status: active
+          gradient: from-[#00A63E] to-[#0E3921]
+    
         - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
           description: Russian Science Foundation, № 21-73-10040, 2021-2024
           status: finished
@@ -203,12 +209,6 @@ sections:
           gradient: from-[#00A63E] to-[#0E3921]
           icon: custom/rfbr
 
-
-        - name: "Novel principle for pyrrole ring construction: synthesis of benzo[g]indoles"
-          description: Russian Foundation for Basic Research, № 12-03-31172, 2016-2018
-          status: finished
-          gradient: from-[#00A63E] to-[#0E3921]
-          icon: custom/rfbr
       cta:
         text: See All Funding
         url: /funding
