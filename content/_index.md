@@ -176,6 +176,7 @@ sections:
           description: Deutsche Forschungsgemeinschaft, № 577098559, 2026-2029
           status: active
           gradient: from-[#00A63E] to-[#0E3921]
+          icon: custom/dfg_logo
     
         - name: Organolithium reagents in the synthesis and functionalization of nitrogen heterocycles
           description: Russian Science Foundation, № 21-73-10040, 2021-2024
@@ -253,30 +254,6 @@ sections:
     design:
       layout: cards
       show_logo: true        
-      css_class: " "
-      spacing:
-        padding: ["5rem", 0, "5rem", 0]
-
-  - block: "team-showcase"
-    id: collaborations
-    content:
-      title: "Our Collaboration Partners"
-      user_groups:
-        - name: Partners
-          sort_by: graduation_year
-          sort_ascending: true
-      sort_by: graduation_year      # global fallback
-      sort_ascending: true
-    
-    design:
-      show_role: true               # show role if present; falls back to affiliation
-      show_organizations: false     # keeps first affiliation visible
-      show_interests: false         # typically skip on alumni grids; set true if concise
-      max_interests: 0              # hide interests even if provided
-      align: left                   # more editorial feel; use center if preferred
-      max_columns: 4                # 3-wide tends to read best for bios/photos
-      show_social: true             # keep if you capture LinkedIn/Google Scholar
-      show_empty_groups: false      # hide the section if empty
       css_class: " "
       spacing:
         padding: ["5rem", 0, "5rem", 0]
