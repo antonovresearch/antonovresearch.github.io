@@ -33,8 +33,8 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
-  section: [HTML, RSS]
+  home: [HTML, RSS, JSON, headers, redirects, backlinks]
+  section: [HTML, RSS, JSON]
 imaging:
   resampleFilter: lanczos
   quality: 90
