@@ -22,7 +22,11 @@ removePathAccents: true
 ############################
 
 build:
+  hugo_version: '0.108.0'
   writeStats: true
+template:
+  id: "research-group"
+  name: "Research Lab"
 enableGitInfo: false
 summaryLength: 30
 pagination:
