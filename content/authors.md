@@ -2,7 +2,7 @@
 title: "Authors Registry"
 draft: false
 
-_build:
+build:
   render: never
   list: never
 
