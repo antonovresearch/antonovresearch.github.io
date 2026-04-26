@@ -22,7 +22,7 @@ removePathAccents: true
 ############################
 
 build:
-  hugo_version: '0.108.0'
+  hugo_version: '0.158.0'
   writeStats: true
 template:
   id: "research-group"
