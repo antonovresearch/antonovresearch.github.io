@@ -22,7 +22,4 @@ tags:
 
 Our project "Advancing Reactivity and Selectivity of Organolithiums Reagents with Non-Covalent Interactions" was supported by DFG. Looking forward to all the interesting results we will obtain!
 
-## Links
-
-## Photos
 
