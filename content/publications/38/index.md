@@ -27,7 +27,7 @@ abstract: The reactivity of pyridines toward organolithium reagents is dominated
 
 links:
   - type: doi
-    url: [https://doi.org/10.1039/D5QO01450F](https://doi.org/10.1021/acs.joc.6c00105)
+    url: https://doi.org/10.1021/acs.joc.6c00105
 
 image:
   caption: ' '
