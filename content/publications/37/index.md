@@ -20,7 +20,7 @@ author_notes:
 - "Corresponding author" 
 date: "2026-01-27T00:00:00Z"
 
-publication: "	Org. Chem. Front., 2026, 13, 2065-2080
+publication: "Org. Chem. Front., 2026, 13, 2065-2080"
 
 Journal: Org. Chem. Front.
 Year: 2026
