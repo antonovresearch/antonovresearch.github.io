@@ -1,7 +1,7 @@
 ---
 title: "Special Issue of the European Journal of Inorganic Chemistry"
 summary: "Dr. Antonov serves as a guest editor for special issue of EurJIC - Celebrating Prof. Klaus Jurkschat."
-date: 2026-02-13
+date: 2026-06-30
 
 # Featured image
 # Put an image named `featured.jpg` (or .png) in this page folder.
