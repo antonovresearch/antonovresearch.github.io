@@ -83,8 +83,8 @@ sections:
       view: article-grid
       columns: 2
     cta:
-      text: See All Teaching Activities
-      url: /teaching
+      text: See More News
+      url: /news
       icon: hero/arrow-right   
     
   - block: research-areas
