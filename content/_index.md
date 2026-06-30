@@ -82,6 +82,10 @@ sections:
     design:
       view: article-grid
       columns: 2
+    cta:
+      text: See All Teaching Activities
+      url: /teaching
+      icon: hero/arrow-right   
     
   - block: research-areas
     id: team
