@@ -5,8 +5,9 @@ type: landing
 design:
   spacing:
     padding: ["3rem", "0", "3rem", "0"]
-    
-- block: collection
+
+sections:
+  - block: collection
     id: news
     content:
       title: Lab News & Updates
@@ -16,4 +17,3 @@ design:
       view: article-grid
       columns: 2
 ---
-
