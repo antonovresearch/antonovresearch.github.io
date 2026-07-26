@@ -73,9 +73,9 @@ experience:
     end: 2023-04-30   
     
   - role: Relocation to Germany
-    org: 
-    start: 
-    end: 
+    org: ""
+    start: ""
+    end: ""
     
   - role: Associate Professor for Physical Organic Chemistry
     org: Saint Petersburg University
