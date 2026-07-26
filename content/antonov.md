@@ -33,16 +33,16 @@ sections:
     content:
       title: "Institutional Responsibilities"
       items:
-        - title: "Scientific supervisor of the Bachelor education program “Chemistry”"
+        - title: "Programme Director, BSc programme “Chemistry”"
           company: "Saint Petersburg University"
           date_start: "2021-09-01"
-          date_end: "2023-02-01"
+          date_end: "2022-11-30"
           description: ""
 
         - title: "Vice Chair of the Department of Physical Organic Chemistry"
           company: "Saint Petersburg University"
           date_start: "2021-09-01"
-          date_end: "2023-02-01"
+          date_end: "2022-11-30"
           description: ""
 
         - title: "Member of the Academic Senate of the Faculty of Chemistry"
