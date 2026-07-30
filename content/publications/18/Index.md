@@ -4,7 +4,7 @@ title: "Sterically Facilitated Intramolecular Nucleophilic NMe2 Group Substituti
 authors:
 - antonov
 - Tupikina
-- V. V. Karpov
+- Karpov
 - Mulloyarova
 - V. G. Bardakov 
 
