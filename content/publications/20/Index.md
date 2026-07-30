@@ -3,7 +3,7 @@ number: 20
 title: "Lithiation of 2,4,5,7-tetrabromo-1,8-bis(dimethylamino)naphthalene:  peculiarities of directing groups' effects and the possibility of polymetallation"
 authors:
 - Yakubenko 
-- V. V. Karpov
+- Karpov
 - Tupikina
 - antonov
 
