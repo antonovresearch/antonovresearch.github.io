@@ -3,7 +3,7 @@ number: 16
 title: "Aggregation behaviour of lithionaphthalenes in solution: experimental and theoretical study"
 authors:
 - antonov
-- V. V. Karpov
+- Karpov
 - Tupikina
 - Tolstoy
 - M. A. Vovk
