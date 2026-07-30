@@ -3,7 +3,7 @@ number: 29
 title: "NMR detection of the strained metallacycles in organolithiums: theoretical study"
 authors:
 - M. V. Kaplanskiy
-- V. V. Karpov
+- Karpov
 - Tupikina
 - antonov
 author_notes:
