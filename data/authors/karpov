@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: karpov
+name_short: V. V. Karpov
+name:
+  display: Valerii Karpov
+role: MS in Chemistry, 2022
+graduation_year: 2022
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: brands/orcid
+    link: https://orcid.org/0000-0003-1752-4161
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Alumni
