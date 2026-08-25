@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: korostelev
+name_short: I. A. Korostelev
+name:
+  display: Ivan Korostelev
+role: Bachelor Student
+
+affiliations:
+  - name: Saint Petersburg University
+
+links:
+  - icon: hero/envelope
+    link: 'mailto:st141034@student.spbu.ru
+    
+highlight_name: false
+website: ""
+user_groups:
+  - Undergraduate Students
