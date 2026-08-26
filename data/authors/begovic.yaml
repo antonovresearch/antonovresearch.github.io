@@ -11,6 +11,8 @@ affiliations:
 links:
   - icon: hero/envelope
     link: 'mailto:Benjamin.Begovic@stud.uni-regensburg.de'
+  - icon: brands/orcid
+    link: https://orcid.org/0009-0005-4480-7265
     
 highlight_name: false
 website: ""
