@@ -8,11 +8,6 @@ role: PhD Student
 affiliations:
   - name: Regensburg University
 
-links:
-  - icon: hero/envelope
-    link: ""
-  - icon: brands/orcid
-    link: ""
     
 highlight_name: false
 website: ""
