@@ -10,9 +10,9 @@ affiliations:
 
 links:
   - icon: hero/envelope
-    link: '...'
+    link: ""
   - icon: brands/orcid
-    link: '...'
+    link: ""
     
 highlight_name: false
 website: ""
