@@ -1,0 +1,20 @@
+schema: hugoblox/author/v1
+slug: burlutskii
+name_short: R. O. Burlutskii
+name:
+  display: Roman  Burlutskii
+role: PhD Student
+
+affiliations:
+  - name: Regensburg University
+
+links:
+  - icon: hero/envelope
+    link: '...'
+  - icon: brands/orcid
+    link: '...'
+    
+highlight_name: false
+website: ""
+user_groups:
+  - PhD Students
